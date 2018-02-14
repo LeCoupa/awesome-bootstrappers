@@ -1,3 +1,5 @@
 # Awesome Marketing
 
-> 📈 Must-read articles, videos, tools and resources about Marketing to help you grow your startup.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> 🌟 Must-read articles, videos, tools and marketing resources to help you grow your startup.
