@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🧠 Must-read articles, videos, books and marketing tools to help you grow your startup.
+> 🌟 Must-read articles, videos, books and marketing tools to help you grow your startup.
 
 
 ## 🤔 Why Awesome Marketing?
@@ -27,6 +27,8 @@ Every morning, one of my routines is to read at least one article about marketin
 ### Webinars
 
 * 📝 [How ConvertKit Grew from $98k to $625k MRR by Doing 150 Webinars in 1 Year](https://blog.leadfeeder.com/webinar-marketing)
+
+* 📝 [Why The Second Fastest Growing SaaS Company Is Running Weekly Webinars](https://learn.demio.com/intercom/)
 
 > **Key takeaways**: They maintained a wide open affiliate program. They would do a webinar with any affiliate—no matter how small the audience. They gave away hundreds of dollars of value during the webinar — and asked for nothing in return. They Maintained a Narrow Target Audience. They Kept The Technology Simple.
 
