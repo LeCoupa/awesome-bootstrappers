@@ -19,6 +19,11 @@ Every morning, one of my routines is to read at least one article about marketin
 
 ## 👨‍💻 Articles
 
+## Psychology
+
+* [11 Secrets Marketing Experts Don’t Want You to Know](https://brightside.me/wonder-curiosities/11-secrets-marketing-experts-dont-want-you-to-know-330310/).
+
+
 ### Facebook Ads
 
 * 📝 [How We Achieved $0.20 CPI with Facebook Ads](https://medium.com/@thomasjacquesson/how-we-achieved-0-20-cpi-with-facebook-ads-369619d1f7e5)
