@@ -23,6 +23,8 @@ Every morning, one of my routines is to read at least one article about marketin
 
 * 📝 [How We Achieved $0.20 CPI with Facebook Ads](https://medium.com/@thomasjacquesson/how-we-achieved-0-20-cpi-with-facebook-ads-369619d1f7e5)
 
+* 📺 [Facebook Ads Tutorial: How I Get Thousands of Email Subscribers for $1 Each](https://www.youtube.com/watch?v=VQw5Cbvf884)
+
 
 ### Webinars
 
@@ -46,4 +48,14 @@ Every morning, one of my routines is to read at least one article about marketin
 * [Gorgias.io](https://gorgias.io/): Gorgias is a customer support helpdesk
 specially designed for Shopify stores.
 
+* [iAdvize](https://www.iadvize.com/en/): Imagine a scalable community of experts, passionate about your brand, and products. Now imagine a platform to connect these experts to your customers in real time, via messaging, 24/7.
+
 * [Intercom.com](https://www.intercom.com/): Modern messaging for sales, marketing and support – all on the first platform made with customers in mind.
+
+* [Livechat Inc](https://www.livechatinc.com/): The fastest way to help your customers. Start chatting with visitors who need your help using a free 30-day trial.
+
+* [Olark](https://www.olark.com/): Make your business human with the world’s simplest live chat software.
+
+* [Tidio](https://www.tidiochat.com/): Never leave your customer without an answer. No matter how they reach out.
+
+* [Zendesk Chat](https://zopim.com/): Talk to your customers in real-time. Live chat is the fastest way to engage your customers.
