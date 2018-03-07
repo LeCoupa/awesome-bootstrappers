@@ -9,9 +9,10 @@
 
 Every morning, one of my routines is to read at least one article about marketing before going to work. This list includes my must-reads.
 
+
 ## Experts to follow
 
-* [Noah Kagan](https://www.youtube.com/channel/UCF2v8v8te3_u4xhIQ8tGy1g): Lessons from an 8-figure founder about how to start a business, grow a business, become a marketing wizard, and more.
+* 📺 [Noah Kagan](https://www.youtube.com/channel/UCF2v8v8te3_u4xhIQ8tGy1g): Lessons from an 8-figure founder about how to start a business, grow a business, become a marketing wizard, and more.
 
 
 ## 📚 Books
@@ -28,9 +29,14 @@ Every morning, one of my routines is to read at least one article about marketin
 * 📝 [1,000 True Fans by Kevin Kelly](http://kk.org/thetechnium/1000-true-fans/).
 
 
+## Ideas
+
+* 📺 [2018 Best Marketing Strategies](https://www.youtube.com/watch?v=xaU09TNwaok)
+
+
 ## Psychology
 
-* [11 Secrets Marketing Experts Don’t Want You to Know](https://brightside.me/wonder-curiosities/11-secrets-marketing-experts-dont-want-you-to-know-330310/).
+* 📝 [11 Secrets Marketing Experts Don’t Want You to Know](https://brightside.me/wonder-curiosities/11-secrets-marketing-experts-dont-want-you-to-know-330310/).
 
 
 ### Facebook Ads
