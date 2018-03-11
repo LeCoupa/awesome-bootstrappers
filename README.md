@@ -24,20 +24,24 @@ Every morning, one of my routines is to read at least one article about marketin
 
 ## 👨‍💻 Articles
 
-## Basics
+### Basics
 
-* 📝 [1,000 True Fans by Kevin Kelly](http://kk.org/thetechnium/1000-true-fans/).
+* 📝 [1,000 True Fans by Kevin Kelly](http://kk.org/thetechnium/1000-true-fans/)
 
 
-## Ideas
+### Ideas
 
 * 📺 [2018 Best Marketing Strategies](https://www.youtube.com/watch?v=xaU09TNwaok)
 
 
-## Psychology
+### Psychology
 
-* 📝 [11 Secrets Marketing Experts Don’t Want You to Know](https://brightside.me/wonder-curiosities/11-secrets-marketing-experts-dont-want-you-to-know-330310/).
+* 📝 [11 Secrets Marketing Experts Don’t Want You to Know](https://brightside.me/wonder-curiosities/11-secrets-marketing-experts-dont-want-you-to-know-330310/)
 
+
+### Emailing
+
+* 📝 [Email Marketing Strategies You Can Use to Grow Your Email List (And More)](https://www.youtube.com/watch?v=XlNVHBVng2I)
 
 ### Facebook Ads
 
