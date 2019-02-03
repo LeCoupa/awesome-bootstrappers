@@ -50,7 +50,7 @@
 
 - [Books](marketing/framework/books.md).
 
-## Resources
+### Resources
 
 - [Mindset](marketing/resources/mindset.md).
 
