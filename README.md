@@ -30,9 +30,9 @@
 
 ### Tooling
 
-- [Git](tooling/git.md).
+- [Git](development/tooling/git.md).
 
-- [Visual Studio Code](tooling/vscode.md).
+- [Visual Studio Code](development/tooling/vscode.md).
 
 ## Marketing
 
