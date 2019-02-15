@@ -50,6 +50,8 @@
 
 - 📖 [Two way data binding and state management with Vuex and strict mode](https://ypereirareis.github.io/blog/2017/04/25/vuejs-two-way-data-binding-state-management-vuex-strict-mode/).
 
+- 📖[Vuex getters are great, but don’t overuse them](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414).
+
 - ⁉️ [Vuex | How to commit a global mutation in a module action?](https://stackoverflow.com/questions/44618440/vuex-how-to-commit-a-global-mutation-in-a-module-action)
 
 ## VuePress
