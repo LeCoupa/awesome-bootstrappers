@@ -6,6 +6,8 @@
 
 ### Backend
 
+- [Laravel](development/backend/laravel.md).
+
 - [Sails.js](development/backend/sails.md).
 
 ### Frontend
@@ -21,6 +23,8 @@
 ### Languages
 
 - [JavaScript](development/languages/javascript.md).
+
+- [PHP](development/languages/php.md).
 
 ### Mindset
 
