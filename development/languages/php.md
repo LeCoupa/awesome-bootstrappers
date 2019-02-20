@@ -5,3 +5,7 @@
 ## Introduction
 
 - 📺 [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php).
+
+## Tools
+
+- 📖 [Debugging: Configure VS Code + XDebug + PHPUnit](https://tighten.co/blog/configure-vscode-to-debug-phpunit-tests-with-xdebug).
