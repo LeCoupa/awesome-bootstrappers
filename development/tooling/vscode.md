@@ -11,7 +11,6 @@
 ```json
 [
   // --> WORKBENCH <--
-
   {
     "key": "cmd+o",
     "command": "workbench.action.gotoSymbol"
@@ -27,6 +26,11 @@
 
   // --> EDITOR <--
 
+  {
+    "key": "shift+cmd+d",
+    "command": "editor.action.selectHighlights",
+    "when": "editorFocus"
+  },
   {
     "key": "cmd+enter",
     "command": "editor.action.peekDefinition",
@@ -45,6 +49,17 @@
     "command": "git.sync"
   },
 
+  // --> OPEN IN GTIHUB <--
+
+  {
+    "key": "cmd+m",
+    "command": "extension.copyGitHubLinkToClipboard"
+  },
+  {
+    "key": "shift+cmd+m",
+    "command": "extension.openInGitHub"
+  },
+
   // --> PHP UNIT <--
 
   {
@@ -52,7 +67,7 @@
     "command": "better-phpunit.run"
   },
   {
-    "key": "shift+cmd+t",
+    "key": "cmd+r",
     "command": "better-phpunit.run-suite"
   }
 ]
