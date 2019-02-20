@@ -8,4 +8,6 @@
 
 ## Tools
 
+- 📺 [Visual Studio Code for PHP Developers](https://laracasts.com/series/visual-studio-code-for-php-developers).
+
 - 📖 [Debugging: Configure VS Code + XDebug + PHPUnit](https://tighten.co/blog/configure-vscode-to-debug-phpunit-tests-with-xdebug).
