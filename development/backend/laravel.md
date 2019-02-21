@@ -8,10 +8,12 @@
 
 - 📺 [Eloquent Relationships](https://laracasts.com/series/eloquent-relationships).
 
-# Lavaravel Nova
+## Lavaravel Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
 
-# TDD
+## TDD
 
-- 📺 [Build A Laravel App With TDD](https://laracasts.com/series/build-a-laravel-app-with-tdd)
+- 📺 [Build A Laravel App With TDD](https://laracasts.com/series/build-a-laravel-app-with-tdd).
+
+- 📺 [Testing Jargon](https://laracasts.com/series/testing-jargon).
