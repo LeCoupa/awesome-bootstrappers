@@ -11,6 +11,11 @@
 ```json
 [
   // --> WORKBENCH <--
+
+  {
+    "key": "shift+cmd+w",
+    "command": "workbench.action.closeAllEditors"
+  },
   {
     "key": "cmd+o",
     "command": "workbench.action.gotoSymbol"
@@ -27,11 +32,6 @@
   // --> EDITOR <--
 
   {
-    "key": "shift+cmd+d",
-    "command": "editor.action.selectHighlights",
-    "when": "editorFocus"
-  },
-  {
     "key": "cmd+enter",
     "command": "editor.action.peekDefinition",
     "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
@@ -40,6 +40,11 @@
     "key": "shift+cmd+enter",
     "command": "editor.action.revealDefinition",
     "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "editor.action.selectHighlights",
+    "when": "editorFocus"
   },
 
   // --> GIT <--
