@@ -24,6 +24,8 @@
 
 - 📖 [Creating Vue.js Component Instances Programmatically](https://css-tricks.com/creating-vue-js-component-instances-programmatically/).
 
+- 📖 [Scoped Component Slots in Vue.js](https://alligator.io/vuejs/scoped-component-slots/).
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
