@@ -11,3 +11,7 @@
 - 📺 [Visual Studio Code for PHP Developers](https://laracasts.com/series/visual-studio-code-for-php-developers).
 
 - 📖 [Debugging: Configure VS Code + XDebug + PHPUnit](https://tighten.co/blog/configure-vscode-to-debug-phpunit-tests-with-xdebug).
+
+## POO
+
+- 📺 [What is Traits and Why we need it](https://www.youtube.com/watch?v=npPnXEjMZ0Y).
