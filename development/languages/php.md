@@ -6,6 +6,10 @@
 
 - 📺 [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php).
 
+## Composer
+
+- 📺🇫🇷 [L'autoloader](https://www.youtube.com/watch?v=pwD-xxtZ1g0).
+
 ## Tools
 
 - 📺 [Visual Studio Code for PHP Developers](https://laracasts.com/series/visual-studio-code-for-php-developers).
