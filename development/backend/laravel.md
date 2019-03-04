@@ -8,6 +8,10 @@
 
 - 📺 [Eloquent Relationships](https://laracasts.com/series/eloquent-relationships).
 
+## Patterns
+
+- 📖 [Use the Repository Design pattern in a Laravel application](https://medium.com/employbl/use-the-repository-design-pattern-in-a-laravel-application-13f0b46a3dce).
+
 ## Lavaravel Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
