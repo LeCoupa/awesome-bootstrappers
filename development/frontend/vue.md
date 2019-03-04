@@ -26,6 +26,8 @@
 
 - 📖 [Scoped Component Slots in Vue.js](https://alligator.io/vuejs/scoped-component-slots/).
 
+- 📺 [What Are Vue.js Hooks?](https://www.youtube.com/watch?v=9YKpx7h-Ass).
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
