@@ -28,6 +28,8 @@
 
 - 📺 [What Are Vue.js Hooks?](https://www.youtube.com/watch?v=9YKpx7h-Ass).
 
+- 📖 [Vue.js - How to Build Your First Package & Publish It on NPM](https://www.telerik.com/blogs/vuejs-how-to-build-your-first-package-publish-it-on-npm).
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
