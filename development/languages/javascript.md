@@ -12,14 +12,14 @@
 
 - 📖 [State of JS for 2018](https://2018.stateofjs.com/introduction/).
 
-# ES10
+## ES10
 
 - 📺 [ES10 / ES2019 _New_ Features!](https://www.youtube.com/watch?v=eps-J_p4eQY).
 
-# NPM
+## NPM
 
 - 📖 [npm-link: symlink a package folder](https://docs.npmjs.com/cli/link.html).
 
-# Miscellaneous
+## Miscellaneous
 
 - 📖 [An Introduction to Source Maps](https://blog.teamtreehouse.com/introduction-source-maps).
