@@ -70,6 +70,10 @@
 
 - 📖 [Avoiding Memory Leaks](https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html).
 
+## Responsive
+
+- 📖 [Handle Media Queries and Responsive Design with Vue](https://alligator.io/vuejs/vue-media-queries/).
+
 ## Vue CLI
 
 - 📖 [Vue CLI Official documentation](https://cli.vuejs.org/).

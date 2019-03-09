@@ -6,6 +6,8 @@
 
 - 📺 [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php).
 
+## Basics
+
 - 📺🇫🇷 [Les espaces de noms](https://www.youtube.com/watch?v=WHtbi8S0rkI).
 
 ## Composer
