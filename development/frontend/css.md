@@ -13,3 +13,7 @@
 - 📖 [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/).
 
 - 📖 [InuitCSS README](https://github.com/inuitcss/inuitcss/blob/develop/README.md).
+
+## Tips & Tricks
+
+- 📺 [Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw).
