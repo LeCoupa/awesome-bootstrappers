@@ -84,4 +84,6 @@
 
 - 📺 [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw).
 
+- 📺 [Vuejs Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg).
+
 - 📺 [Vue NYC](https://www.youtube.com/channel/UCX4w2P-M4cuWQG0WKgU3TTQ).
