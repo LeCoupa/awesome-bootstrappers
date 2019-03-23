@@ -5,3 +5,7 @@
 ## Important Notions
 
 - 📺 [Why Build Progressive Web Apps?](https://www.youtube.com/watch?v=1QILz1lAzWY)
+
+## Service Workers
+
+- 📺 [Intro To Service Workers & Caching](https://www.youtube.com/watch?v=ksXwaWHCW6k).
