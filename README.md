@@ -14,6 +14,8 @@
 
 - [CSS](development/frontend/css.md).
 
+- [Nuxt.js](development/frontend/nuxt.md).
+
 - [Performance](development/frontend/performance.md).
 
 - [PWA](development/frontend/pwa.md).
