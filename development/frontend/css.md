@@ -17,3 +17,7 @@
 ## Tips & Tricks
 
 - 📺 [Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw).
+
+## SCSS
+
+- 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
