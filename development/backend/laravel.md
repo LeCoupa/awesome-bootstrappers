@@ -10,7 +10,7 @@
 
 ## Tips & Tricks
 
-- [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
+- 📖 [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
 
 ## Patterns
 
@@ -19,6 +19,10 @@
 ## Lavaravel Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
+
+## Commands & Scheduling
+
+- 📖 [Tips for Using Laravel’s Scheduler](https://laravel-news.com/tips-for-using-laravels-scheduler)
 
 ## TDD
 
