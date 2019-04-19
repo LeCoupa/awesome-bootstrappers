@@ -24,6 +24,10 @@
 
 - 📖 [Tips for Using Laravel’s Scheduler](https://laravel-news.com/tips-for-using-laravels-scheduler)
 
+## Performance
+
+- 📖 [Use Query Caching to make your App really fast](https://kovah.me/en/n7hs3x-laravel-5-use-query-caching-to-make-your-app-really-fast/)
+
 ## TDD
 
 - 📺 [Build A Laravel App With TDD](https://laracasts.com/series/build-a-laravel-app-with-tdd).
