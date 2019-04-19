@@ -29,3 +29,5 @@
 - 📺 [Build A Laravel App With TDD](https://laracasts.com/series/build-a-laravel-app-with-tdd).
 
 - 📺 [Testing Jargon](https://laracasts.com/series/testing-jargon).
+
+- 📖 [Tips to Speed up Your Phpunit Tests](https://laravel-news.com/tips-to-speed-up-phpunit-tests).
