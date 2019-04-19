@@ -8,6 +8,10 @@
 
 - 📺 [Eloquent Relationships](https://laracasts.com/series/eloquent-relationships).
 
+## Tips & Tricks
+
+- [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
+
 ## Patterns
 
 - 📖 [Use the Repository Design pattern in a Laravel application](https://medium.com/employbl/use-the-repository-design-pattern-in-a-laravel-application-13f0b46a3dce).
