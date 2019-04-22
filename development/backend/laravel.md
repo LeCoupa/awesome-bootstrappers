@@ -22,11 +22,11 @@
 
 ## Commands & Scheduling
 
-- 📖 [Tips for Using Laravel’s Scheduler](https://laravel-news.com/tips-for-using-laravels-scheduler)
+- 📖 [Tips for Using Laravel’s Scheduler](https://laravel-news.com/tips-for-using-laravels-scheduler).
 
 ## Performance
 
-- 📖 [Use Query Caching to make your App really fast](https://kovah.me/en/n7hs3x-laravel-5-use-query-caching-to-make-your-app-really-fast/)
+- 📖 [Use Query Caching to make your App really fast](https://kovah.me/en/n7hs3x-laravel-5-use-query-caching-to-make-your-app-really-fast/).
 
 - 📖 [Laravel: The hidden SetCacheHeaders Middleware](https://itnext.io/laravel-the-hidden-setcacheheaders-middleware-4cd594ba462f).
 
@@ -37,3 +37,5 @@
 - 📺 [Testing Jargon](https://laracasts.com/series/testing-jargon).
 
 - 📖 [Tips to Speed up Your Phpunit Tests](https://laravel-news.com/tips-to-speed-up-phpunit-tests).
+
+- 📖 [My feature test suite setup](https://timacdonald.me/my-feature-test-suite-setup).
