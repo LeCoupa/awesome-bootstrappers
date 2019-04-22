@@ -8,6 +8,8 @@
 
 - 📺 [Eloquent Relationships](https://laracasts.com/series/eloquent-relationships).
 
+- 📖 [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial).
+
 ## Tips & Tricks
 
 - 📖 [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
