@@ -28,6 +28,8 @@
 
 - 📖 [Use Query Caching to make your App really fast](https://kovah.me/en/n7hs3x-laravel-5-use-query-caching-to-make-your-app-really-fast/)
 
+- 📖 [Laravel: The hidden SetCacheHeaders Middleware](https://itnext.io/laravel-the-hidden-setcacheheaders-middleware-4cd594ba462f).
+
 ## TDD
 
 - 📺 [Build A Laravel App With TDD](https://laracasts.com/series/build-a-laravel-app-with-tdd).
