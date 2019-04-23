@@ -23,3 +23,7 @@
 ## POO
 
 - 📺 [What is Traits and Why we need it](https://www.youtube.com/watch?v=npPnXEjMZ0Y).
+
+## Tips
+
+- 📖 [10 PHP functions you must know](https://medium.com/@stefan.poeltl/10-php-functions-you-must-know-405b2f7137a5).
