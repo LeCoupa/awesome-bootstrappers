@@ -18,6 +18,10 @@
 
 - 📖 [Use the Repository Design pattern in a Laravel application](https://medium.com/employbl/use-the-repository-design-pattern-in-a-laravel-application-13f0b46a3dce).
 
+## Eloquent
+
+- 📖 [Laravel Eloquent Amazing Tips and Tricks](https://medium.com/@advanceidea/laravel-eloquent-tips-894bc104cb98)
+
 ## Lavaravel Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
