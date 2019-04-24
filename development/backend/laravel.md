@@ -20,7 +20,7 @@
 
 ## Eloquent
 
-- 📖 [Laravel Eloquent Amazing Tips and Tricks](https://medium.com/@advanceidea/laravel-eloquent-tips-894bc104cb98)
+- 📖 [Laravel Eloquent Amazing Tips and Tricks](https://medium.com/@advanceidea/laravel-eloquent-tips-894bc104cb98).
 
 ## Lavaravel Nova
 

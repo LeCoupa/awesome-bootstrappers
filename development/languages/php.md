@@ -27,3 +27,7 @@
 ## Tips
 
 - 📖 [10 PHP functions you must know](https://medium.com/@stefan.poeltl/10-php-functions-you-must-know-405b2f7137a5).
+
+## Miscellaneous
+
+- 📖 [Install PHP 7.2 + xdebug on MacOS High Sierra (with homebrew July 2018)](https://medium.com/@romaninsh/install-php-7-2-xdebug-on-macos-high-sierra-with-homebrew-july-2018-d7968fe7e8b8).
