@@ -31,3 +31,5 @@
 ## Miscellaneous
 
 - 📖 [Install PHP 7.2 + xdebug on MacOS High Sierra (with homebrew July 2018)](https://medium.com/@romaninsh/install-php-7-2-xdebug-on-macos-high-sierra-with-homebrew-july-2018-d7968fe7e8b8).
+
+- 📖 [How to Install XDebug on a new Mac (including Mojave)](http://www.devinbaldwin.com/2018/09/27/how-to-install-xdebug-on-a-new-mac-including-mojave/)
