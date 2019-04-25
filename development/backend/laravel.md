@@ -45,3 +45,5 @@
 - 📖 [Tips to Speed up Your Phpunit Tests](https://laravel-news.com/tips-to-speed-up-phpunit-tests).
 
 - 📖 [My feature test suite setup](https://timacdonald.me/my-feature-test-suite-setup).
+
+- 📖 [DatabaseMigrations, DatabaseTransactions, and WithoutMiddleware](https://mattstauffer.com/blog/better-integration-testing-in-laravel-5.1-databasemigrations-databasetransactions-and-withoutmiddleware/)
