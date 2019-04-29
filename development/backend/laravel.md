@@ -10,23 +10,13 @@
 
 - 📖 [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial).
 
-## Tips & Tricks
-
-- 📺 [Quick Tip to Navigate from Laravel Route to Controller](https://www.youtube.com/watch?v=-zxzRwbdhR8).
-
-- 📖 [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
-
-## Patterns
-
-- 📖 [Use the Repository Design pattern in a Laravel application](https://medium.com/employbl/use-the-repository-design-pattern-in-a-laravel-application-13f0b46a3dce).
-
 ## Eloquent
 
 - 📖 [Laravel Eloquent Amazing Tips and Tricks](https://medium.com/@advanceidea/laravel-eloquent-tips-894bc104cb98).
 
-## Lavaravel Nova
+## Permission
 
-- 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
+- 📖 [When to use Gate::after in Laravel](https://murze.be/when-to-use-gateafter-in-laravel).
 
 ## Commands & Scheduling
 
@@ -49,3 +39,17 @@
 - 📖 [My feature test suite setup](https://timacdonald.me/my-feature-test-suite-setup).
 
 - 📖 [DatabaseMigrations, DatabaseTransactions, and WithoutMiddleware](https://mattstauffer.com/blog/better-integration-testing-in-laravel-5.1-databasemigrations-databasetransactions-and-withoutmiddleware/)
+
+## Lavaravel Nova
+
+- 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
+
+## Patterns
+
+- 📖 [Use the Repository Design pattern in a Laravel application](https://medium.com/employbl/use-the-repository-design-pattern-in-a-laravel-application-13f0b46a3dce).
+
+## Tips & Tricks
+
+- 📺 [Quick Tip to Navigate from Laravel Route to Controller](https://www.youtube.com/watch?v=-zxzRwbdhR8).
+
+- 📖 [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
