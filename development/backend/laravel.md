@@ -48,6 +48,8 @@
 
 - 📖 [Use the Repository Design pattern in a Laravel application](https://medium.com/employbl/use-the-repository-design-pattern-in-a-laravel-application-13f0b46a3dce).
 
+- 📖 [Simplifying controllers](https://murze.be/simplifying-controllers).
+
 ## Tips & Tricks
 
 - 📺 [Quick Tip to Navigate from Laravel Route to Controller](https://www.youtube.com/watch?v=-zxzRwbdhR8).
