@@ -8,6 +8,8 @@
 
 - 📺 [Vue.js: the Progressive Framework - Evan You](https://www.youtube.com/watch?v=p2P3z7p_zTI).
 
+- 📖 [Debugging in VS Code](https://vuejs.org/v2/cookbook/debugging-in-vscode.html).
+
 ## Code style
 
 - 📖 [Official Vue.js Style Guide](https://vuejs.org/v2/style-guide/).
