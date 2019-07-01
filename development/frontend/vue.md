@@ -8,6 +8,8 @@
 
 - 📺 [Vue.js: the Progressive Framework - Evan You](https://www.youtube.com/watch?v=p2P3z7p_zTI).
 
+- 📺 [3 Ways To Debug Your Vuejs Apps With VS Code And Chrome](https://www.youtube.com/watch?v=lyGt1TmleoU).
+
 - 📖 [Debugging in VS Code](https://vuejs.org/v2/cookbook/debugging-in-vscode.html).
 
 ## Code style
