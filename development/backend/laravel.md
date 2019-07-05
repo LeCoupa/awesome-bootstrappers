@@ -55,3 +55,7 @@
 - 📺 [Quick Tip to Navigate from Laravel Route to Controller](https://www.youtube.com/watch?v=-zxzRwbdhR8).
 
 - 📖 [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
+
+# Websockets
+
+- 📖 [WebSockets in Laravel](https://johnbraun.blog/posts/websockets-in-laravel).
