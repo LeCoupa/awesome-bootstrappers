@@ -14,6 +14,10 @@
 
 - 📖 [Laravel Eloquent Amazing Tips and Tricks](https://medium.com/@advanceidea/laravel-eloquent-tips-894bc104cb98).
 
+## Emailing
+
+- 📖 [Allowing Users to send email with their own SMTP settings in Laravel](https://laravel-news.com/allowing-users-to-send-email-with-their-own-smtp-settings-in-laravel).
+
 ## Permission
 
 - 📖 [When to use Gate::after in Laravel](https://murze.be/when-to-use-gateafter-in-laravel).
