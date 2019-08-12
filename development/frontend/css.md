@@ -23,3 +23,7 @@
 ## SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
+
+# Others
+
+- 📺 [What's New in CSS](https://www.youtube.com/watch?v=107JV5MpgUU).
