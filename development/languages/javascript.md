@@ -22,6 +22,8 @@
 
 ## NPM
 
+- 📺 [NPM and the Future of JavaScript](https://www.youtube.com/watch?v=Qa4dxW-Qi2s).
+
 - 📖 [npm-link: symlink a package folder](https://docs.npmjs.com/cli/link.html).
 
 ## Miscellaneous
