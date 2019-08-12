@@ -32,6 +32,8 @@
 
 - 📖 [Laravel: The hidden SetCacheHeaders Middleware](https://itnext.io/laravel-the-hidden-setcacheheaders-middleware-4cd594ba462f).
 
+- 📖 [Speed up your Laravel pages by caching the responses](https://jeffochoa.me/speed-up-your-laravel-pages-by-caching-the-responses).
+
 ## TDD
 
 - 📺 [Build A Laravel App With TDD](https://laracasts.com/series/build-a-laravel-app-with-tdd).
@@ -54,7 +56,7 @@
 
 - 📖 [Simplifying controllers](https://murze.be/simplifying-controllers).
 
-- 📖 [Laravel Tip: Bootable Model Traits](https://tighten.co/blog/laravel-tip-bootable-model-traits)
+- 📖 [Laravel Tip: Bootable Model Traits](https://tighten.co/blog/laravel-tip-bootable-model-traits).
 
 ## Tips & Tricks
 
