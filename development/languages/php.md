@@ -14,6 +14,10 @@
 
 - 📺🇫🇷 [L'autoloader](https://www.youtube.com/watch?v=pwD-xxtZ1g0).
 
+## Basics
+
+- 📖 [Arrow functions in PHP](https://stitcher.io/blog/short-closures-in-php)
+
 ## Tools
 
 - 📺 [Visual Studio Code for PHP Developers](https://laracasts.com/series/visual-studio-code-for-php-developers).
