@@ -10,6 +10,10 @@
 
 - 📺 [Facebook Ads Tutorial: How I Get Thousands of Email Subscribers for \$1 Each](https://www.youtube.com/watch?v=VQw5Cbvf884).
 
+## Google Ads
+
+- 📖 [Guide To AdWords Conversion Tracking Options](https://www.bounteous.com/insights/2016/08/15/guide-adwords-conversion-tracking-options/).
+
 ## Other Ad Networks
 
-- 📖 [Reddit Ads vs. Quora Ads – The \$2.500 Experiment](https://blog.bannersnack.com/reddit-ads-quora-ads/?utm_source=zest.is&utm_medium=referral&utm_term=zst.5d33ab3e0660e).
+- 📖 [Reddit Ads vs. Quora Ads – The \$2.500 Experiment](https://blog.bannersnack.com/reddit-ads-quora-ads/).
