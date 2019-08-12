@@ -64,6 +64,10 @@
 
 - 📖 [Essential Laravel Knowledge: How A Facade Works](https://calebporzio.com/essential-laravel-knowledge-how-a-facade-work/).
 
+## Traits
+
+- 📺 [Laravel Multi-Tenancy with Single Trait](https://www.youtube.com/watch?v=nCiNqboYFVQ).
+
 ## Tips & Tricks
 
 - 📺 [Quick Tip to Navigate from Laravel Route to Controller](https://www.youtube.com/watch?v=-zxzRwbdhR8).
