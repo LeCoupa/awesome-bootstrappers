@@ -12,7 +12,9 @@
 
 - 📖 [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 
-- 📖 [The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw).
+- 📺 [Git MERGE vs REBASE](https://www.youtube.com/watch?v=CRlGDDprdOQ).
+
+- 📺 [The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw).
 
 ## Cool tricks
 
