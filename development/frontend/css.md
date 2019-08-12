@@ -20,6 +20,8 @@
 
 - 📺 [A couple of cool things you can do with CSS position sticky](https://www.youtube.com/watch?v=8TyoihVGErI).
 
+- 📺 [The Only 2 CSS Properties You Should Animate](https://www.youtube.com/watch?v=N5EW4HnF6FU).
+
 ## SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
