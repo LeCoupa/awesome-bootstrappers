@@ -12,6 +12,8 @@
 
 ## Composer
 
+- 📖 [PHP Composer … The Autoloader](https://medium.com/tech-tajawal/php-composer-the-autoloader-d676a2f103aa).
+
 - 📺🇫🇷 [L'autoloader](https://www.youtube.com/watch?v=pwD-xxtZ1g0).
 
 ## Basics
