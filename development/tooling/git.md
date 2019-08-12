@@ -12,6 +12,8 @@
 
 - 📖 [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 
+- 📖 [The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw).
+
 ## Cool tricks
 
 - 📖 [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/npm-precommit-scripts/).
