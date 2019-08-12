@@ -12,7 +12,7 @@
 
 - 📖 [Debugging in VS Code](https://vuejs.org/v2/cookbook/debugging-in-vscode.html).
 
-## Code style
+## Code style & Best Practices
 
 - 📖 [Official Vue.js Style Guide](https://vuejs.org/v2/style-guide/).
 
@@ -21,6 +21,8 @@
 - 📖 [Understanding environments in VueJS](https://medium.com/the-andela-way/understanding-environments-in-vuejs-74e94a139b8b)
 
 - ⁉️ [Why is it considered poor practice to use Axios or HTTP calls in components?](https://stackoverflow.com/questions/45839198/why-is-it-considered-poor-practice-to-use-axios-or-http-calls-in-components)
+
+- 📺 [Are These Vue.js Best Practices? Video Critique!](https://www.youtube.com/watch?v=38XnZ3EJqYQ)
 
 ## Components
 
@@ -40,7 +42,7 @@
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
 
-- 📖 [Structuring a Vue project : Authentication](https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16)
+- 📖 [Structuring a Vue project : Authentication](https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16).
 
 - 📖 [Route Meta Fields](https://router.vuejs.org/guide/advanced/meta.html).
 
