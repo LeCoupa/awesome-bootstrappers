@@ -16,6 +16,8 @@
 
 - 📖 [A Complete Guide to AdWords Conversions: View Through, Call Conversions and More](https://blog.funnel.io/guide-to-adwords-conversions).
 
+- 📖 [Differences Between AdWords Conversion Tags & Google Analytics Goals Import](https://www.bounteous.com/insights/2016/02/03/differences-between-adwords-conversion-tags-google-analytics-goals-import/).
+
 ## Other Ad Networks
 
 - 📖 [Reddit Ads vs. Quora Ads – The \$2.500 Experiment](https://blog.bannersnack.com/reddit-ads-quora-ads/).
