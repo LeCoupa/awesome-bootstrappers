@@ -18,6 +18,10 @@
 
 - 📖 [Use WebP images](https://web.dev/fast/serve-images-webp).
 
+## Preloading
+
+- 📖 [Using Preload and Prefetch in Your HTML to Load Assets](https://alligator.io/html/preload-prefetch/).
+
 ## JavaScript
 
 - 📖 [Apply instant loading with the PRPL pattern](https://web.dev/fast/apply-instant-loading-with-prpl).
