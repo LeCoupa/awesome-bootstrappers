@@ -18,6 +18,8 @@
 
 - 📺 [Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw).
 
+- 📺 [A couple of cool things you can do with CSS position sticky](https://www.youtube.com/watch?v=8TyoihVGErI).
+
 ## SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
