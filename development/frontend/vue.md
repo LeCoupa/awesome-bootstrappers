@@ -34,6 +34,8 @@
 
 - 📖 [Vue.js - How to Build Your First Package & Publish It on NPM](https://www.telerik.com/blogs/vuejs-how-to-build-your-first-package-publish-it-on-npm).
 
+- 📖 [The correct way to force Vue to re-render a component](https://michaelnthiessen.com/force-re-render).
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
