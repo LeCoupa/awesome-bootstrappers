@@ -14,6 +14,8 @@
 
 - 📖 [Guide To AdWords Conversion Tracking Options](https://www.bounteous.com/insights/2016/08/15/guide-adwords-conversion-tracking-options/).
 
+- 📖 [A Complete Guide to AdWords Conversions: View Through, Call Conversions and More](https://blog.funnel.io/guide-to-adwords-conversions).
+
 ## Other Ad Networks
 
 - 📖 [Reddit Ads vs. Quora Ads – The \$2.500 Experiment](https://blog.bannersnack.com/reddit-ads-quora-ads/).
