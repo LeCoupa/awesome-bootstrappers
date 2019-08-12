@@ -6,6 +6,10 @@
 
 - 📺 [7 Problems you can avoid by using Nuxt.js for your next Vue app](https://www.youtube.com/watch?v=7ITypVi-qRY).
 
+## API
+
+- 📖 [Organize and decouple your API calls in Nuxt.js](https://blog.lichter.io/posts/organize-and-decouple-your-api-calls-in-nuxtjs/).
+
 ## Things to know
 
 - ❓ [Difference between Asyncdata vs Fetch](https://stackoverflow.com/questions/49251437/difference-between-asyncdata-vs-fetch)
