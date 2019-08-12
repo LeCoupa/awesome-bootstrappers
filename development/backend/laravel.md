@@ -54,6 +54,8 @@
 
 - 📖 [Simplifying controllers](https://murze.be/simplifying-controllers).
 
+- 📖 [Laravel Tip: Bootable Model Traits](https://tighten.co/blog/laravel-tip-bootable-model-traits)
+
 ## Tips & Tricks
 
 - 📺 [Quick Tip to Navigate from Laravel Route to Controller](https://www.youtube.com/watch?v=-zxzRwbdhR8).
