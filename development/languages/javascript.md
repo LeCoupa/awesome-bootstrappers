@@ -16,6 +16,10 @@
 
 - 📺 [ES10 / ES2019 _New_ Features!](https://www.youtube.com/watch?v=eps-J_p4eQY).
 
+## Tips
+
+- 📖 [Better error handling in JavaScript](https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af).
+
 ## NPM
 
 - 📖 [npm-link: symlink a package folder](https://docs.npmjs.com/cli/link.html).
