@@ -54,6 +54,8 @@
 
 - 📖 [Use the Repository Design pattern in a Laravel application](https://medium.com/employbl/use-the-repository-design-pattern-in-a-laravel-application-13f0b46a3dce).
 
+- 📖 [Repository Design Pattern in Laravel Application](https://medium.com/@shishirthedev/repository-design-pattern-in-laravel-application-f474798f53ec).
+
 - 📖 [Simplifying controllers](https://murze.be/simplifying-controllers).
 
 - 📖 [Laravel Tip: Bootable Model Traits](https://tighten.co/blog/laravel-tip-bootable-model-traits).
