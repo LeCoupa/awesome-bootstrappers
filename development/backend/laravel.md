@@ -60,6 +60,8 @@
 
 - 📖 [Laravel Tip: Bootable Model Traits](https://tighten.co/blog/laravel-tip-bootable-model-traits).
 
+- 📺 ["Cruddy by Design" - Adam Wathan - Laracon US 2017](https://www.youtube.com/watch?v=MF0jFKvS4SI).
+
 ## Facades
 
 - 📖 [Essential Laravel Knowledge: How A Facade Works](https://calebporzio.com/essential-laravel-knowledge-how-a-facade-work/).
