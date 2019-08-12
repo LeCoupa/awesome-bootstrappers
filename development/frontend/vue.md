@@ -95,3 +95,5 @@
 - 📺 [Vuejs Amsterdam](https://www.youtube.com/channel/UCxV7lO6dUhpB-IyzmGuVgqg).
 
 - 📺 [Vue NYC](https://www.youtube.com/channel/UCX4w2P-M4cuWQG0WKgU3TTQ).
+
+- 📺 [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw).
