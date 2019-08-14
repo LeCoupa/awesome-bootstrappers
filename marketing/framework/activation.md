@@ -2,7 +2,7 @@
 
 ## Personal Branding
 
-- [How I Built My Personal Brand in One Year, and 15 Ways You Can Do the Same](https://www.growthmarketingpro.com/personal-brand/).
+- 📖 [How I Built My Personal Brand in One Year, and 15 Ways You Can Do the Same](https://www.growthmarketingpro.com/personal-brand/).
 
 ## Psychology
 
