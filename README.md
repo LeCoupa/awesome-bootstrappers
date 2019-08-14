@@ -2,43 +2,43 @@
 
 > 👩‍🚀👨‍🚀 Must-read articles, videos, books and tools for bootstrappers.
 
-## Development
+## Coding
 
 ### Backend
 
-- [Laravel](development/backend/laravel.md).
+- [Laravel](coding/backend/laravel.md).
 
-- [Sails.js](development/backend/sails.md).
+- [Sails.js](coding/backend/sails.md).
 
 ### Frontend
 
-- [CSS](development/frontend/css.md).
+- [CSS](coding/frontend/css.md).
 
-- [Nuxt.js](development/frontend/nuxt.md).
+- [Nuxt.js](coding/frontend/nuxt.md).
 
-- [Performance](development/frontend/performance.md).
+- [Performance](coding/frontend/performance.md).
 
-- [PWA](development/frontend/pwa.md).
+- [PWA](coding/frontend/pwa.md).
 
-- [Vue.js](development/frontend/vue.md).
+- [Vue.js](coding/frontend/vue.md).
 
 ### Languages
 
-- [JavaScript](development/languages/javascript.md).
+- [JavaScript](coding/languages/javascript.md).
 
-- [PHP](development/languages/php.md).
+- [PHP](coding/languages/php.md).
 
 ### Mindset
 
-- [Networking](development/mindset/networking.md).
+- [Networking](coding/mindset/networking.md).
 
-- [TDD](development/mindset/tdd.md).
+- [TDD](coding/mindset/tdd.md).
 
 ### Tooling
 
-- [Git](development/tooling/git.md).
+- [Git](coding/tooling/git.md).
 
-- [Visual Studio Code](development/tooling/vscode.md).
+- [Visual Studio Code](coding/tooling/vscode.md).
 
 ## Marketing
 
