@@ -22,6 +22,10 @@
 
 - 📖 [Reddit Ads vs. Quora Ads – The \$2.500 Experiment](https://blog.bannersnack.com/reddit-ads-quora-ads/).
 
+## Kickstarter & Crowdfunding
+
+- 📖 [How A Successful Kickstarter Campaign Made $15k In 28 Hours](https://sumo.com/stories/kickstarter-email-list).
+
 # Twitter
 
 - 📖 [Can Twitter Threads Increase Reach, Engagement, and Referral Traffic? An Experiment](https://buffer.com/resources/twitter-thread-experiment).
