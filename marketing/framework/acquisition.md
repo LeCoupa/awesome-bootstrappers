@@ -1,5 +1,9 @@
 # Acquisition
 
+## Bootstrapping
+
+- 📖 [SaaS Growth Hacking – ZERO to Over \$25K MRR in 6 Months (Without Spending a Dime in Marketing)](https://rankz.io/blog/growth-hacking/).
+
 ## Emailing
 
 - 📝 [Email Marketing Strategies You Can Use to Grow Your Email List (And More)](https://www.youtube.com/watch?v=XlNVHBVng2I).
@@ -24,7 +28,7 @@
 
 ## Kickstarter & Crowdfunding
 
-- 📖 [How A Successful Kickstarter Campaign Made $15k In 28 Hours](https://sumo.com/stories/kickstarter-email-list).
+- 📖 [How A Successful Kickstarter Campaign Made \$15k In 28 Hours](https://sumo.com/stories/kickstarter-email-list).
 
 # Twitter
 
