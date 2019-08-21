@@ -19,3 +19,7 @@
 ## Cool tricks
 
 - 📖 [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/npm-precommit-scripts/).
+
+## Github Actions
+
+- 📖 [Automating your workflow with GitHub Actions](https://help.github.com/en/categories/automating-your-workflow-with-github-actions)
