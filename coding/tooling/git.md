@@ -22,4 +22,6 @@
 
 ## Github Actions
 
-- 📖 [Automating your workflow with GitHub Actions](https://help.github.com/en/categories/automating-your-workflow-with-github-actions)
+- 📖 [Automating your workflow with GitHub Actions](https://help.github.com/en/categories/automating-your-workflow-with-github-actions).
+
+- 📖 [Hello, GitHub Actions!](https://lab.github.com/github/hello-github-actions!).
