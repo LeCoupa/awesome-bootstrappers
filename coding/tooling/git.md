@@ -22,6 +22,8 @@
 
 ## Github Actions
 
+- 📺 [GitHub Actions - Now with built-in CI/CD! Live from GitHub HQ](https://www.youtube.com/watch?v=E1OunoCyuhY).
+
 - 📖 [Automating your workflow with GitHub Actions](https://help.github.com/en/categories/automating-your-workflow-with-github-actions).
 
 - 📖 [Hello, GitHub Actions!](https://lab.github.com/github/hello-github-actions!).
