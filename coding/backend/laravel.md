@@ -10,6 +10,8 @@
 
 - 📖 [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial).
 
+- 📖 [Use Laravel Valet for a Super Quick Dev Server](https://scotch.io/tutorials/use-laravel-valet-for-a-super-quick-dev-server).
+
 ## Eloquent
 
 - 📖 [Laravel Eloquent Amazing Tips and Tricks](https://medium.com/@advanceidea/laravel-eloquent-tips-894bc104cb98).
