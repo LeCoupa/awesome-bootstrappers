@@ -30,6 +30,6 @@
 
 - 📖 [How A Successful Kickstarter Campaign Made \$15k In 28 Hours](https://sumo.com/stories/kickstarter-email-list).
 
-# Twitter
+## Twitter
 
 - 📖 [Can Twitter Threads Increase Reach, Engagement, and Referral Traffic? An Experiment](https://buffer.com/resources/twitter-thread-experiment).
