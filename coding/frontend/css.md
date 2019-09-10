@@ -28,6 +28,8 @@
 
 - 📺 [CSS Z-Index and Stacking Context](https://www.youtube.com/watch?v=uS8l4YRXbaw).
 
+- 📺 [Why you shouldn't set font-sizes using em](https://www.youtube.com/watch?v=pautqDqa54I).
+
 ## SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
