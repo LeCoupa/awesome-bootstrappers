@@ -26,6 +26,8 @@
 
 - 📺 [The Only 2 CSS Properties You Should Animate](https://www.youtube.com/watch?v=N5EW4HnF6FU).
 
+- 📺 [CSS Z-Index and Stacking Context](https://www.youtube.com/watch?v=uS8l4YRXbaw).
+
 ## SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
