@@ -90,6 +90,8 @@
 
 - 📖 [Distributed Vue.js Applications Part 1: Loading Components via HTTP](https://markus.oberlehner.net/blog/distributed-vue-applications-loading-components-via-http/).
 
+- 📖 [Distributed Vue.js Applications Part 2: Pushing Content and Component Updates to the Client](https://markus.oberlehner.net/blog/distributed-vue-applications-pushing-content-and-component-updates-to-the-client/).
+
 ## YouTube Channels
 
 - 📺 [Vue Mastery](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A).
