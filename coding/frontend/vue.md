@@ -12,6 +12,8 @@
 
 - 📖 [Debugging in VS Code](https://vuejs.org/v2/cookbook/debugging-in-vscode.html).
 
+- 🧠 [Vue.js Roadmap](https://github.com/vuejs/vue/projects/6).
+
 ## Code style & Best Practices
 
 - 📖 [Official Vue.js Style Guide](https://vuejs.org/v2/style-guide/).
