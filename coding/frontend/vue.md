@@ -4,6 +4,8 @@
 
 ## Before you start
 
+- 🧠 [Vue.js Roadmap](https://github.com/vuejs/vue/projects/6).
+
 - 📺 [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/).
 
 - 📺 [Vue.js: the Progressive Framework - Evan You](https://www.youtube.com/watch?v=p2P3z7p_zTI).
@@ -11,8 +13,6 @@
 - 📺 [3 Ways To Debug Your Vuejs Apps With VS Code And Chrome](https://www.youtube.com/watch?v=lyGt1TmleoU).
 
 - 📖 [Debugging in VS Code](https://vuejs.org/v2/cookbook/debugging-in-vscode.html).
-
-- 🧠 [Vue.js Roadmap](https://github.com/vuejs/vue/projects/6).
 
 ## Code style & Best Practices
 
