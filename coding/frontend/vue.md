@@ -86,6 +86,8 @@
 
 - 📖 [Vue CLI Official documentation](https://cli.vuejs.org/).
 
+- 📖 [Distributed Vue.js Applications Part 1: Loading Components via HTTP](https://markus.oberlehner.net/blog/distributed-vue-applications-loading-components-via-http/).
+
 ## YouTube Channels
 
 - 📺 [Vue Mastery](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A).
