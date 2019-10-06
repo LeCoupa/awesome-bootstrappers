@@ -40,6 +40,10 @@
 
 - 📖 [The correct way to force Vue to re-render a component](https://michaelnthiessen.com/force-re-render).
 
+## Directives
+
+- 📖 [15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity).
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
