@@ -10,6 +10,8 @@
 
 - 📺 [Optimise page load time: icon font or SVG?](https://www.youtube.com/watch?v=gdL7XWlFJ9c)
 
+- 📖 [Native lazy-loading for the web](https://web.dev/native-lazy-loading).
+
 - 📖 [Use Imagemin to compress images](https://web.dev/fast/use-imagemin-to-compress-images).
 
 - 📖 [Replace animated GIFs with video for faster page loads](https://web.dev/fast/replace-gifs-with-videos)
