@@ -68,6 +68,10 @@
 
 - 📺 [Roman Kuba - Testing Vue components with Jest](https://www.youtube.com/watch?v=pqp0PsPBO_0).
 
+## Productivity
+
+- 📖 [10 Tips to Increase your Productivity when Coding in Vue.js](https://www.telerik.com/blogs/10-tips-to-increase-your-productivity-when-coding-in-vuejs).
+
 ## Vuex
 
 - 📺 [Vuex - Intro Tutorial](https://www.youtube.com/watch?v=_2_C9j-8CtM).
