@@ -44,6 +44,10 @@
 
 - 📖 [15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity).
 
+## Slots
+
+- 📖 [All You Need to Know About Slots in Vue.js](https://www.telerik.com/blogs/all-you-need-to-know-about-slots-in-vuejs).
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
