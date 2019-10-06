@@ -34,9 +34,11 @@
 
 - 📺 [Why you shouldn't set font-sizes using em](https://www.youtube.com/watch?v=pautqDqa54I).
 
-## SCSS
+## SASS / SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
+
+- 📖 [10 Time-Saving CSS Tips I Learned the Hard Way When Using Sass](https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass).
 
 # Others
 
