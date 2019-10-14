@@ -78,6 +78,10 @@
 
 - 📖 [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/).
 
-# Websockets
+## Valet
+
+- 📖 [How Laravel Valet Works Exactly](https://deliciousbrains.com/how-laravel-valet-works-exactly/).
+
+## Websockets
 
 - 📖 [WebSockets in Laravel](https://johnbraun.blog/posts/websockets-in-laravel).
