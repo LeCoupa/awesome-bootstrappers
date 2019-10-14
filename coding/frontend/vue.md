@@ -28,9 +28,9 @@
 
 ## Components
 
-- 📺 [What Are Vue.js Hooks?](https://www.youtube.com/watch?v=9YKpx7h-Ass).
+- 📺 [What Are Vue.js Hooks?](https://www.youtube.com/watch?v=9YKpx7h-Ass)
 
-- 📺 [Why the Vue 3 Composition API?](https://www.youtube.com/watch?v=6HUjDKVn0e0).
+- 📺 [Why the Vue 3 Composition API?](https://www.youtube.com/watch?v=6HUjDKVn0e0)
 
 - 📖 [Adding v-model Support to Custom Vue.js Components](https://alligator.io/vuejs/add-v-model-support/).
 
