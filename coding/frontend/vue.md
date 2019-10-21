@@ -114,7 +114,9 @@
 
 ## Showcase
 
-- [Made with Vue.js](https://madewithvuejs.com/).
+- 📗 [Made with Vue.js](https://madewithvuejs.com/).
+
+- 📗 [Vue.js examples](https://vuejsexamples.com/).
 
 ## YouTube Channels
 
