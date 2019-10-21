@@ -14,6 +14,8 @@
 
 - 📖 [Debugging in VS Code](https://vuejs.org/v2/cookbook/debugging-in-vscode.html).
 
+- 📖 [Google, Apple and Other Users of Vue.js](https://medium.com/notonlycss/google-apple-and-other-users-of-vue-js-e4505359e5d5).
+
 ## Code style & Best Practices
 
 - 📖 [Official Vue.js Style Guide](https://vuejs.org/v2/style-guide/).
