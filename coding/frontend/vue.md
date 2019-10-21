@@ -112,6 +112,10 @@
 
 - 📖 [How to Build Your First Package & Publish It on NPM](https://www.telerik.com/blogs/vuejs-how-to-build-your-first-package-publish-it-on-npm).
 
+## Showcase
+
+- [Made with Vue.js](https://madewithvuejs.com/).
+
 ## YouTube Channels
 
 - 📺 [Vue Mastery](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A).
