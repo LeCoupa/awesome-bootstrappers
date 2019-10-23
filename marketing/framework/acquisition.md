@@ -4,6 +4,8 @@
 
 - 📖 [7 eCommerce Lookalike Audiences That Are Worth Testing](https://blog.ladder.io/ecommerce-lookalike-audiences/).
 
+- 📖 [Quick Guide to Facebook Value-Based Lookalike Audiences](https://blog.adstage.io/2017/06/29/facebook-value-based-lookalike-audiences).
+
 ## Bootstrapping
 
 - 📖 [SaaS Growth Hacking – ZERO to Over \$25K MRR in 6 Months (Without Spending a Dime in Marketing)](https://rankz.io/blog/growth-hacking/).
