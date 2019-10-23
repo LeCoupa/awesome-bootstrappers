@@ -4,9 +4,11 @@
 
 - 📖 [7 eCommerce Lookalike Audiences That Are Worth Testing](https://blog.ladder.io/ecommerce-lookalike-audiences/).
 
+- 📖 [The \$1,500 Facebook Audience Experiment: 1% vs. 5% vs. 10% Lookalike](https://adespresso.com/blog/adespresso-experiment-facebook-lookalike-audience/).
+
 - 📖 [Quick Guide to Facebook Value-Based Lookalike Audiences](https://blog.adstage.io/2017/06/29/facebook-value-based-lookalike-audiences).
 
-- 📖 [Advertisers seeing dwindling results with Facebook's 1% Lookalike Audiences - Marketing Land](https://marketingland.com/advertisers-seeing-dwindling-results-with-facebooks-1-lookalike-audiences-261045).
+- 📖 [Advertisers seeing dwindling results with Facebook's 1% Lookalike Audiences](https://marketingland.com/advertisers-seeing-dwindling-results-with-facebooks-1-lookalike-audiences-261045).
 
 ## Bootstrapping
 
