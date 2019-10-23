@@ -6,6 +6,8 @@
 
 - 📖 [Quick Guide to Facebook Value-Based Lookalike Audiences](https://blog.adstage.io/2017/06/29/facebook-value-based-lookalike-audiences).
 
+- 📖 [Advertisers seeing dwindling results with Facebook's 1% Lookalike Audiences - Marketing Land](https://marketingland.com/advertisers-seeing-dwindling-results-with-facebooks-1-lookalike-audiences-261045).
+
 ## Bootstrapping
 
 - 📖 [SaaS Growth Hacking – ZERO to Over \$25K MRR in 6 Months (Without Spending a Dime in Marketing)](https://rankz.io/blog/growth-hacking/).
