@@ -28,6 +28,8 @@
 
 - 📖 [Advertisers seeing dwindling results with Facebook's 1% Lookalike Audiences](https://marketingland.com/advertisers-seeing-dwindling-results-with-facebooks-1-lookalike-audiences-261045).
 
+- 📖 [Facebook Ads: Create a Value-Based Lookalike Audience](https://www.jonloomer.com/2017/06/01/facebook-ads-value-based-lookalike-audience/).
+
 ## Bootstrapping
 
 - 📖 [SaaS Growth Hacking – ZERO to Over \$25K MRR in 6 Months (Without Spending a Dime in Marketing)](https://rankz.io/blog/growth-hacking/).
