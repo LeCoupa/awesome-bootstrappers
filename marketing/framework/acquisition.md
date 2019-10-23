@@ -34,6 +34,8 @@
 
 - 📖 [About similar audiences on the Display Network](https://support.google.com/google-ads/answer/2676774?hl=en).
 
+- 📖 [7 Things You Need to Know About LinkedIn Lookalike Audiences](https://business.linkedin.com/marketing-solutions/blog/linkedin-b2b-marketing/2019/7-things-you-need-to-know-about-linkedin-lookalike-audiences).
+
 ## Bootstrapping
 
 - 📖 [SaaS Growth Hacking – ZERO to Over \$25K MRR in 6 Months (Without Spending a Dime in Marketing)](https://rankz.io/blog/growth-hacking/).
