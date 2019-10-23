@@ -30,6 +30,8 @@
 
 - 📖 [Facebook Ads: Create a Value-Based Lookalike Audience](https://www.jonloomer.com/2017/06/01/facebook-ads-value-based-lookalike-audience/).
 
+- 📖 [About similar audiences on the Display Network](https://support.google.com/google-ads/answer/2676774?hl=en).
+
 ## Bootstrapping
 
 - 📖 [SaaS Growth Hacking – ZERO to Over \$25K MRR in 6 Months (Without Spending a Dime in Marketing)](https://rankz.io/blog/growth-hacking/).
