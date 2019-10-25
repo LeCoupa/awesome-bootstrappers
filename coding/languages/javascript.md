@@ -12,9 +12,11 @@
 
 - 📖 [State of JS for 2018](https://2018.stateofjs.com/introduction/).
 
-## ES10
+## ES6 to ES10
 
 - 📺 [ES10 / ES2019 _New_ Features!](https://www.youtube.com/watch?v=eps-J_p4eQY).
+
+- 📺 [Array Iteration: 8 Methods - map, filter, reduce, some, every, find, findIndex, forEach](https://www.youtube.com/watch?v=Urwzk6ILvPQ).
 
 ## Tips
 
