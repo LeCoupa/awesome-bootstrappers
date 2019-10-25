@@ -80,6 +80,8 @@
 
 - 📺 [Vuex - Intro Tutorial](https://www.youtube.com/watch?v=_2_C9j-8CtM).
 
+- 📺 [Learn Vuex In 10 Minutes (Vue.js State Management)](https://www.youtube.com/watch?v=LW9yIR4GoVU).
+
 - 📖 [Two way data binding and state management with Vuex and strict mode](https://ypereirareis.github.io/blog/2017/04/25/vuejs-two-way-data-binding-state-management-vuex-strict-mode/).
 
 - 📖[Vuex getters are great, but don’t overuse them](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414).
