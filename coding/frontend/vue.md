@@ -24,6 +24,8 @@
 
 - 📖 [Understanding environments in VueJS](https://medium.com/the-andela-way/understanding-environments-in-vuejs-74e94a139b8b)
 
+- 📖 [10 Good Practices for Building and Maintaining Large Vue.js Projects](https://www.telerik.com/blogs/10-good-practices-building-maintaining-large-vuejs-projects).
+
 - ⁉️ [Why is it considered poor practice to use Axios or HTTP calls in components?](https://stackoverflow.com/questions/45839198/why-is-it-considered-poor-practice-to-use-axios-or-http-calls-in-components)
 
 - 📺 [Are These Vue.js Best Practices? Video Critique!](https://www.youtube.com/watch?v=38XnZ3EJqYQ)
