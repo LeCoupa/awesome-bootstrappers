@@ -10,6 +10,10 @@
 
 - 📖 [Organize and decouple your API calls in Nuxt.js](https://blog.lichter.io/posts/organize-and-decouple-your-api-calls-in-nuxtjs/).
 
+## Router
+
+- 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/).
+
 ## Things to know
 
 - ❓ [Difference between Asyncdata vs Fetch](https://stackoverflow.com/questions/49251437/difference-between-asyncdata-vs-fetch)
