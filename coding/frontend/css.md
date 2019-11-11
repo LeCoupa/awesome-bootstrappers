@@ -34,6 +34,8 @@
 
 - 📺 [Why you shouldn't set font-sizes using em](https://www.youtube.com/watch?v=pautqDqa54I).
 
+- 📺 [You are doing :focus wrong (and I was too)](https://www.youtube.com/watch?v=Mvu5OMGcdVA).
+
 ## SASS / SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
