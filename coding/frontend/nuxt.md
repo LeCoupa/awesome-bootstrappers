@@ -10,6 +10,10 @@
 
 - 📖 [Organize and decouple your API calls in Nuxt.js](https://blog.lichter.io/posts/organize-and-decouple-your-api-calls-in-nuxtjs/).
 
+## Code style
+
+- 📖 [How to properly set up Nuxt with ESLint and Prettier in VSCode](https://medium.com/@gogl.alex/how-to-properly-set-up-eslint-with-prettier-for-vue-or-nuxt-in-vscode-e42532099a9c).
+
 ## Router
 
 - 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/).
