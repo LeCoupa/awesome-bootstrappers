@@ -44,6 +44,8 @@
 
 - 📖 [Deep Get/Set in Maps](https://css-tricks.com/snippets/sass/deep-getset-maps/).
 
+- 📖 [Extra Map Functions in Sass](https://www.sitepoint.com/extra-map-functions-sass/).
+
 # Others
 
 - 📺 [What's New in CSS](https://www.youtube.com/watch?v=107JV5MpgUU).
