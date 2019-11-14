@@ -42,6 +42,8 @@
 
 - 📖 [10 Time-Saving CSS Tips I Learned the Hard Way When Using Sass](https://www.telerik.com/blogs/10-time-saving-css-tips-i-learned-the-hard-way-when-using-sass).
 
+- 📖 [Deep Get/Set in Maps](https://css-tricks.com/snippets/sass/deep-getset-maps/).
+
 # Others
 
 - 📺 [What's New in CSS](https://www.youtube.com/watch?v=107JV5MpgUU).
