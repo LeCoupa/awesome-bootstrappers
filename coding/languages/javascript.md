@@ -22,6 +22,8 @@
 
 - 📖 [Better error handling in JavaScript](https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af).
 
+- 📖 [Console cheat sheet for JavaScript developers](https://levelup.gitconnected.com/console-cheat-sheet-for-javascript-developers-21f0c49604d4).
+
 ## NPM
 
 - 📺 [NPM and the Future of JavaScript](https://www.youtube.com/watch?v=Qa4dxW-Qi2s).
