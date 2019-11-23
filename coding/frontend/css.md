@@ -46,6 +46,10 @@
 
 - 📖 [Extra Map Functions in Sass](https://www.sitepoint.com/extra-map-functions-sass/).
 
+## Stylelint
+
+- 📖 [How to lint SCSS with stylelint](https://medium.com/@bjankord/how-to-lint-scss-with-stylelint-dc87809a9878).
+
 # Others
 
 - 📺 [What's New in CSS](https://www.youtube.com/watch?v=107JV5MpgUU).
