@@ -14,6 +14,8 @@
 
 - 📺 [Git MERGE vs REBASE](https://www.youtube.com/watch?v=CRlGDDprdOQ).
 
+- 📖 [An introduction to Git merge and rebase: what they are, and how to use them](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/).
+
 - 📺 [The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw).
 
 ## Cool tricks
