@@ -53,3 +53,5 @@
 # Others
 
 - 📺 [What's New in CSS](https://www.youtube.com/watch?v=107JV5MpgUU).
+
+- 📖 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223).
