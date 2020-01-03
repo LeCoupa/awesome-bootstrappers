@@ -132,4 +132,6 @@
 
 - 📺 [Vue NYC](https://www.youtube.com/channel/UCX4w2P-M4cuWQG0WKgU3TTQ).
 
+- 📺 [Vue Toronto](https://www.youtube.com/channel/UCSrbuSqU7S-g9vydCLRYCZg).
+
 - 📺 [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw).
