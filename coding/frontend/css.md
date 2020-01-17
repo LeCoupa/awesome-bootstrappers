@@ -22,6 +22,10 @@
 
 - 📺 [4 Quickest Ways to Center Div with CSS](https://www.youtube.com/watch?v=mVYgtzDLZfY).
 
+## News
+
+- 📺 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223).
+
 ## Tips & Tricks
 
 - 📺 [Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw).
