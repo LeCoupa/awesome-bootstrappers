@@ -36,6 +36,8 @@
 
 - 📺 [Create your own middleware](https://www.youtube.com/watch?v=YHn7EvfVJ44).
 
+- 📺 [Ways to apply middleware](https://www.youtube.com/watch?v=PC_YT--gPzg).
+
 ## Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
