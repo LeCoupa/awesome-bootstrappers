@@ -32,6 +32,8 @@
 
 - 📺 [Why we need middleware](https://www.youtube.com/watch?v=2pPxHrPrvfA).
 
+- 📺 [Laravel core middleware](https://www.youtube.com/watch?v=kXLKPLR_W_0).
+
 ## Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
