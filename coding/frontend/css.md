@@ -44,6 +44,8 @@
 
 - 📺 [You are doing :focus wrong (and I was too)](https://www.youtube.com/watch?v=Mvu5OMGcdVA).
 
+- 📖 [Pure CSS for multiline truncation with ellipsis](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/).
+
 ## SASS / SCSS
 
 - 📖 [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors).
