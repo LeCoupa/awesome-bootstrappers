@@ -14,6 +14,10 @@
 
 - 📖 [InuitCSS README](https://github.com/inuitcss/inuitcss/blob/develop/README.md).
 
+## font
+
+- 📖 [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/).
+
 ## HTML
 
 - 📺 [The HTML picture element explained](https://www.youtube.com/watch?v=Rik3gHT24AM).
