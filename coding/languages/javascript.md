@@ -22,6 +22,10 @@
 
 - 📺 [Array Iteration: 8 Methods - map, filter, reduce, some, every, find, findIndex, forEach](https://www.youtube.com/watch?v=Urwzk6ILvPQ).
 
+## Native Features
+
+- 📖 [Share like a native app with the Web Share API](https://web.dev/web-share/).
+
 ## Tips
 
 - 📖 [Better error handling in JavaScript](https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af).
