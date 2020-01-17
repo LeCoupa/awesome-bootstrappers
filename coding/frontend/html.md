@@ -19,3 +19,7 @@
 ## Lazy Loading
 
 - 📖 [The new native lazy loading for images and iframes in Chromium-based browsers](https://tsh.io/blog/new-native-lazy-loading-for-images-iframes-chromium-browsers/).
+
+## SVG
+
+- 📺 [Finally Figure out the SVG ViewBox](https://www.youtube.com/watch?v=ciMsVVyv3Og).
