@@ -28,6 +28,10 @@
 
 - 📖 [Essential Laravel Knowledge: How A Facade Works](https://calebporzio.com/essential-laravel-knowledge-how-a-facade-work/).
 
+## Middelewares
+
+- 📺 [Why we need middleware](https://www.youtube.com/watch?v=2pPxHrPrvfA).
+
 ## Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
