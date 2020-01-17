@@ -14,6 +14,10 @@
 
 - 📖 [InuitCSS README](https://github.com/inuitcss/inuitcss/blob/develop/README.md).
 
+## Flexbox
+
+- 📖 [The peculiar magic of flexbox and auto margins](https://css-tricks.com/the-peculiar-magic-of-flexbox-and-auto-margins/).
+
 ## Font
 
 - 📖 [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/).
