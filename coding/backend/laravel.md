@@ -26,6 +26,8 @@
 
 ## Facades
 
+- 📺 [Laravel Facade - simplest explanation](https://www.youtube.com/watch?v=zD2VJhOdI5c).
+
 - 📖 [Essential Laravel Knowledge: How A Facade Works](https://calebporzio.com/essential-laravel-knowledge-how-a-facade-work/).
 
 ## Middelewares
