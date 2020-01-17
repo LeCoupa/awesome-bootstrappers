@@ -34,6 +34,8 @@
 
 - 📺 [Laravel core middleware](https://www.youtube.com/watch?v=kXLKPLR_W_0).
 
+- 📺 [Create your own middleware](https://www.youtube.com/watch?v=YHn7EvfVJ44).
+
 ## Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
