@@ -24,7 +24,7 @@
 
 ## News
 
-- 📺 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223).
+- 📖 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223).
 
 ## Tips & Tricks
 
