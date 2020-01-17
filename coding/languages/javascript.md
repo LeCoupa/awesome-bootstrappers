@@ -26,6 +26,8 @@
 
 - 📖 [Share like a native app with the Web Share API](https://web.dev/web-share/).
 
+- 📖 [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/).
+
 ## Tips
 
 - 📖 [Better error handling in JavaScript](https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af).
