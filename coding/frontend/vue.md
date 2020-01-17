@@ -16,7 +16,15 @@
 
 - 📖 [Google, Apple and Other Users of Vue.js](https://medium.com/notonlycss/google-apple-and-other-users-of-vue-js-e4505359e5d5).
 
-## Code style & Best Practices
+## Authentication
+
+- 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
+
+- 📖 [Structuring a Vue project : Authentication](https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16).
+
+- 📖 [Route Meta Fields](https://router.vuejs.org/guide/advanced/meta.html).
+
+## Best Practices
 
 - 📖 [Official Vue.js Style Guide](https://vuejs.org/v2/style-guide/).
 
@@ -29,6 +37,14 @@
 - ⁉️ [Why is it considered poor practice to use Axios or HTTP calls in components?](https://stackoverflow.com/questions/45839198/why-is-it-considered-poor-practice-to-use-axios-or-http-calls-in-components)
 
 - 📺 [Are These Vue.js Best Practices? Video Critique!](https://www.youtube.com/watch?v=38XnZ3EJqYQ)
+
+## CLI
+
+- 📖 [Vue CLI Official documentation](https://cli.vuejs.org/).
+
+- 📖 [Distributed Vue.js Applications Part 1: Loading Components via HTTP](https://markus.oberlehner.net/blog/distributed-vue-applications-loading-components-via-http/).
+
+- 📖 [Distributed Vue.js Applications Part 2: Pushing Content and Component Updates to the Client](https://markus.oberlehner.net/blog/distributed-vue-applications-pushing-content-and-component-updates-to-the-client/).
 
 ## Components
 
@@ -50,33 +66,53 @@
 
 - 📖 [15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity).
 
-## Slots
-
-- 📖 [All You Need to Know About Slots in Vue.js](https://www.telerik.com/blogs/all-you-need-to-know-about-slots-in-vuejs).
-
-## Authentication
-
-- 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
-
-- 📖 [Structuring a Vue project : Authentication](https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16).
-
-- 📖 [Route Meta Fields](https://router.vuejs.org/guide/advanced/meta.html).
-
 ## NativeScript
 
 - 📺 [Ignacio Fuentes - Mobile Apps with Vue and NativeScript](https://www.youtube.com/watch?v=claDp19_aqA).
+
+## News
+
+- 📺 [Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA).
+
+## Packaging
+
+- 📖 [How to Build Your First Package & Publish It on NPM](https://www.telerik.com/blogs/vuejs-how-to-build-your-first-package-publish-it-on-npm).
+
+## Performance
+
+- 📺 [Sean Larkin - Code splitting patterns in Vue.js](https://www.youtube.com/watch?v=rn97hCNQsKI).
+
+- 📖 [Avoiding Memory Leaks](https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html).
+
+## Productivity
+
+- 📖 [10 Tips to Increase your Productivity when Coding in Vue.js](https://www.telerik.com/blogs/10-tips-to-increase-your-productivity-when-coding-in-vuejs).
+
+## Responsive
+
+- 📖 [Handle Media Queries and Responsive Design with Vue](https://alligator.io/vuejs/vue-media-queries/).
 
 ## Router
 
 - 📖 [Navigate Nested Child Routes In A Vue.js Web Application](https://www.thepolyglotdeveloper.com/2017/11/navigate-nested-child-routes-vuejs-web-application/).
 
+## Showcase
+
+- 📗 [Made with Vue.js](https://madewithvuejs.com/).
+
+- 📗 [Vue.js examples](https://vuejsexamples.com/).
+
+## Slots
+
+- 📖 [All You Need to Know About Slots in Vue.js](https://www.telerik.com/blogs/all-you-need-to-know-about-slots-in-vuejs).
+
 ## Testing
 
 - 📺 [Roman Kuba - Testing Vue components with Jest](https://www.youtube.com/watch?v=pqp0PsPBO_0).
 
-## Productivity
+## VuePress
 
-- 📖 [10 Tips to Increase your Productivity when Coding in Vue.js](https://www.telerik.com/blogs/10-tips-to-increase-your-productivity-when-coding-in-vuejs).
+- 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4).
 
 ## Vuex
 
@@ -89,38 +125,6 @@
 - 📖[Vuex getters are great, but don’t overuse them](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414).
 
 - ⁉️ [Vuex | How to commit a global mutation in a module action?](https://stackoverflow.com/questions/44618440/vuex-how-to-commit-a-global-mutation-in-a-module-action)
-
-## VuePress
-
-- 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4).
-
-## Performance
-
-- 📺 [Sean Larkin - Code splitting patterns in Vue.js](https://www.youtube.com/watch?v=rn97hCNQsKI).
-
-- 📖 [Avoiding Memory Leaks](https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html).
-
-## Responsive
-
-- 📖 [Handle Media Queries and Responsive Design with Vue](https://alligator.io/vuejs/vue-media-queries/).
-
-## Vue CLI
-
-- 📖 [Vue CLI Official documentation](https://cli.vuejs.org/).
-
-- 📖 [Distributed Vue.js Applications Part 1: Loading Components via HTTP](https://markus.oberlehner.net/blog/distributed-vue-applications-loading-components-via-http/).
-
-- 📖 [Distributed Vue.js Applications Part 2: Pushing Content and Component Updates to the Client](https://markus.oberlehner.net/blog/distributed-vue-applications-pushing-content-and-component-updates-to-the-client/).
-
-## Packaging
-
-- 📖 [How to Build Your First Package & Publish It on NPM](https://www.telerik.com/blogs/vuejs-how-to-build-your-first-package-publish-it-on-npm).
-
-## Showcase
-
-- 📗 [Made with Vue.js](https://madewithvuejs.com/).
-
-- 📗 [Vue.js examples](https://vuejsexamples.com/).
 
 ## YouTube Channels
 
