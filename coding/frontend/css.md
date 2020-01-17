@@ -54,6 +54,10 @@
 
 - 📖 [How to lint SCSS with stylelint](https://medium.com/@bjankord/how-to-lint-scss-with-stylelint-dc87809a9878).
 
+## Tailwind
+
+- 📺 [Tailwind CSS with Vue](https://www.youtube.com/watch?v=ZAjUGkhqUP4).
+
 ## Tips & Tricks
 
 - 📺 [Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw).
