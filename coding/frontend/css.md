@@ -70,4 +70,7 @@
 
 - 📺 [CSS Single VS Double Colon - Which is Correct?](https://www.youtube.com/watch?v=B3Er3gnVxHI).
 
+- 📺 [Top 10 CSS Tricks You Didn't Know!](https://www.youtube.com/watch?v=CxC925yUxSI).
+
 - 📖 [Pure CSS for multiline truncation with ellipsis](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/).
+
