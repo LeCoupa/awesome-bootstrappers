@@ -22,6 +22,10 @@
 
 - 📖 [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/).
 
+## Layouts
+
+- 📖 [Building responsive layouts - Designing in the Browser](https://www.youtube.com/watch?v=K1POS8yPqa8).
+
 ## Media queries
 
 - 📖 [Create print styles using CSS3 @media queries](https://benfrain.com/create-print-styles-using-css3-media-queries/).
