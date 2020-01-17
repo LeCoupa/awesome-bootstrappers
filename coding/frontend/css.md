@@ -1,4 +1,4 @@
-# Mastering HTML & CSS
+# Mastering CSS
 
 > Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
@@ -14,13 +14,9 @@
 
 - 📖 [InuitCSS README](https://github.com/inuitcss/inuitcss/blob/develop/README.md).
 
-## font
+## Font
 
 - 📖 [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/).
-
-## HTML
-
-- 📺 [The HTML picture element explained](https://www.youtube.com/watch?v=Rik3gHT24AM).
 
 ## Media queries
 
