@@ -38,6 +38,8 @@
 
 ### Tooling
 
+- [Git](coding/tooling/chrome.md).
+
 - [Git](coding/tooling/git.md).
 
 - [Visual Studio Code](coding/tooling/vscode.md).
