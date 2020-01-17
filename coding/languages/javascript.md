@@ -12,6 +12,10 @@
 
 - 📖 [State of JS for 2018](https://2018.stateofjs.com/introduction/).
 
+## Drag and drop
+
+- 📖 [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/).
+
 ## ES6 to ES10
 
 - 📺 [ES10 / ES2019 _New_ Features!](https://www.youtube.com/watch?v=eps-J_p4eQY).
