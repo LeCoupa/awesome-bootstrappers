@@ -38,6 +38,10 @@
 
 - 📺 [Ways to apply middleware](https://www.youtube.com/watch?v=PC_YT--gPzg).
 
+## News
+
+- 📺 [The State of Laravel 2019 by Taylor Otwell](https://www.youtube.com/watch?v=Hfgcg09srSo).
+
 ## Nova
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery).
