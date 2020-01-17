@@ -18,13 +18,17 @@
 
 - 📺 [The HTML picture element explained](https://www.youtube.com/watch?v=Rik3gHT24AM).
 
-## Positioning
+## Media queries
 
-- 📺 [4 Quickest Ways to Center Div with CSS](https://www.youtube.com/watch?v=mVYgtzDLZfY).
+- 📖 [Create print styles using CSS3 @media queries](https://benfrain.com/create-print-styles-using-css3-media-queries/).
 
 ## News
 
 - 📖 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223).
+
+## Positioning
+
+- 📺 [4 Quickest Ways to Center Div with CSS](https://www.youtube.com/watch?v=mVYgtzDLZfY).
 
 ## Tips & Tricks
 
