@@ -14,6 +14,8 @@
 
 - 📖 [iframe, or not, that is the question](https://krasimirtsonev.com/blog/article/iframe-or-not-that-is-the-question).
 
+- 📖 [Responsive IFRAMEs — The Right Way (CSS Only)!](https://benmarshall.me/responsive-iframes/).
+
 ## Lazy Loading
 
 - 📖 [The new native lazy loading for images and iframes in Chromium-based browsers](https://tsh.io/blog/new-native-lazy-loading-for-images-iframes-chromium-browsers/).
