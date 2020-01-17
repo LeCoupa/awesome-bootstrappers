@@ -72,9 +72,13 @@
 
 - 📖 [When to use Gate::after in Laravel](https://murze.be/when-to-use-gateafter-in-laravel).
 
-## Service container
+## Service Container
 
 - 📺 [Laravel Service Container Explained](https://www.youtube.com/watch?v=PGVqkEZiUoc).
+
+## Service Provider
+
+- 📺 [Laravel Service Provider](https://www.youtube.com/watch?v=1AxQNDOJTBw).
 
 ## TDD
 
