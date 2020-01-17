@@ -9,3 +9,5 @@
 ## Iframe
 
 - 📖 [Play safely in sandboxed IFrames](https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/).
+
+- 📖 [Affect of iframes on SEO](https://www.boostability.com/the-affect-of-iframes-on-seo/).
