@@ -30,25 +30,11 @@
 
 - 📖 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223).
 
+- 📺 [What's New in CSS](https://www.youtube.com/watch?v=107JV5MpgUU).
+
 ## Positioning
 
 - 📺 [4 Quickest Ways to Center Div with CSS](https://www.youtube.com/watch?v=mVYgtzDLZfY).
-
-## Tips & Tricks
-
-- 📺 [Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw).
-
-- 📺 [A couple of cool things you can do with CSS position sticky](https://www.youtube.com/watch?v=8TyoihVGErI).
-
-- 📺 [The Only 2 CSS Properties You Should Animate](https://www.youtube.com/watch?v=N5EW4HnF6FU).
-
-- 📺 [CSS Z-Index and Stacking Context](https://www.youtube.com/watch?v=uS8l4YRXbaw).
-
-- 📺 [Why you shouldn't set font-sizes using em](https://www.youtube.com/watch?v=pautqDqa54I).
-
-- 📺 [You are doing :focus wrong (and I was too)](https://www.youtube.com/watch?v=Mvu5OMGcdVA).
-
-- 📖 [Pure CSS for multiline truncation with ellipsis](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/).
 
 ## SASS / SCSS
 
@@ -64,8 +50,20 @@
 
 - 📖 [How to lint SCSS with stylelint](https://medium.com/@bjankord/how-to-lint-scss-with-stylelint-dc87809a9878).
 
-# Others
+## Tips & Tricks
 
-- 📺 [What's New in CSS](https://www.youtube.com/watch?v=107JV5MpgUU).
+- 📺 [Remove all styling with one line of CSS](https://www.youtube.com/watch?v=0GcTUor2ANw).
 
-- 📖 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223).
+- 📺 [A couple of cool things you can do with CSS position sticky](https://www.youtube.com/watch?v=8TyoihVGErI).
+
+- 📺 [The Only 2 CSS Properties You Should Animate](https://www.youtube.com/watch?v=N5EW4HnF6FU).
+
+- 📺 [CSS Z-Index and Stacking Context](https://www.youtube.com/watch?v=uS8l4YRXbaw).
+
+- 📺 [Why you shouldn't set font-sizes using em](https://www.youtube.com/watch?v=pautqDqa54I).
+
+- 📺 [You are doing :focus wrong (and I was too)](https://www.youtube.com/watch?v=Mvu5OMGcdVA).
+
+- 📺 [CSS Single VS Double Colon - Which is Correct?](https://www.youtube.com/watch?v=B3Er3gnVxHI).
+
+- 📖 [Pure CSS for multiline truncation with ellipsis](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/).
