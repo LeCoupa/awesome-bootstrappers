@@ -30,7 +30,7 @@
 
 - 📖 [Essential Laravel Knowledge: How A Facade Works](https://calebporzio.com/essential-laravel-knowledge-how-a-facade-work/).
 
-## Middelewares
+## Middlewares
 
 - 📺 [Why we need middleware](https://www.youtube.com/watch?v=2pPxHrPrvfA).
 
@@ -71,6 +71,10 @@
 ## Permission
 
 - 📖 [When to use Gate::after in Laravel](https://murze.be/when-to-use-gateafter-in-laravel).
+
+## Service container
+
+- 📺 [Laravel Service Container Explained](https://www.youtube.com/watch?v=PGVqkEZiUoc).
 
 ## TDD
 
