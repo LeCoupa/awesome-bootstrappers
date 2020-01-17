@@ -14,6 +14,8 @@
 
 - [CSS](coding/frontend/css.md).
 
+- [HTML](coding/frontend/html.md).
+
 - [Nuxt.js](coding/frontend/nuxt.md).
 
 - [Performance](coding/frontend/performance.md).
