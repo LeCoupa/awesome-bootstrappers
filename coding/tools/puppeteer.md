@@ -9,3 +9,7 @@
 - 📺 [Web Scraping with Node.js & Puppeteer (🌋 rants included, no extra charge)](https://www.youtube.com/watch?v=pixfH6yyqZk)
 
 - 📺 [A Guide to Web Scraping with Node.js](https://www.youtube.com/watch?v=dXjKh66BR2U)
+
+## Performance
+
+- 📖 [Disabling JavaScript Using Puppeteer](https://webkul.com/blog/disabling-javascript-using-puppeteer/)
