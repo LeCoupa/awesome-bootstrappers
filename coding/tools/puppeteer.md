@@ -5,3 +5,5 @@
 ## Scrapping
 
 - 📺 [Web Scraping Tutorial - How to Scrape Modern Websites for Data](https://www.youtube.com/watch?v=vsmxMLmroyQ)
+
+- 📺 [Web Scraping with Node.js & Puppeteer (🌋 rants included, no extra charge)](https://www.youtube.com/watch?v=pixfH6yyqZk)
