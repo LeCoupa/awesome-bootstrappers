@@ -38,6 +38,8 @@
 
 - [Networking](coding/tools/networking.md)
 
+- [Puppeteer](coding/tools/puppeteer.md)
+
 - [TDD](coding/tools/tdd.md)
 
 - [Visual Studio Code](coding/tools/vscode.md)
