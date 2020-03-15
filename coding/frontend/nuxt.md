@@ -24,6 +24,8 @@
 
 - 📖 [Using NuxtJS Server Middleware as a Proxy Pass](https://mccallister.io/using-nuxtjs-server-middleware-as-a-proxy-pass)
 
+- 📖 [My take on using Nuxt with an API](https://blog.lichter.io/posts/nuxt-with-an-api/)
+
 ## Things to know
 
 - ❓ [Difference between Asyncdata vs Fetch](https://stackoverflow.com/questions/49251437/difference-between-asyncdata-vs-fetch)
