@@ -5,3 +5,7 @@
 ## News
 
 - 📺 [Chrome 79 - What’s New in DevTools](https://www.youtube.com/watch?v=kobvF5cs6xY).
+
+## Things to know
+
+- 📖 [What’s the Difference Between Chromium and Chrome?](https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/)
