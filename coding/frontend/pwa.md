@@ -8,6 +8,6 @@
 
 ## Service Workers
 
-- 📺 [Intro To Service Workers & Caching](https://www.youtube.com/watch?v=ksXwaWHCW6k).
+- 📺 [Intro To Service Workers & Caching](https://www.youtube.com/watch?v=ksXwaWHCW6k)
 
-- 📺 [From Web Site to PWA with Workbox](https://www.youtube.com/watch?v=POS9HWcvuCU).
+- 📺 [From Web Site to PWA with Workbox](https://www.youtube.com/watch?v=POS9HWcvuCU)

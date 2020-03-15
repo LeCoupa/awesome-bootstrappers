@@ -8,18 +8,18 @@
 
 - 📖 [What’s the difference between Unit Testing, TDD and BDD?](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
 
-- 📖 [Testing Pyramid](http://www.agilenutshell.com/episodes/41-testing-pyramid).
+- 📖 [Testing Pyramid](http://www.agilenutshell.com/episodes/41-testing-pyramid)
 
-- 📖 [Types of software Testing](http://www.softwaretestinghelp.com/types-of-software-testing/).
+- 📖 [Types of software Testing](http://www.softwaretestinghelp.com/types-of-software-testing/)
 
 - 📺 [What is code coverage?](https://www.youtube.com/watch?v=uDmdlmdVhL8)
 
 ## Mocha & Chai
 
-- [Quick Introduction: Mocha, Chai and Chai-http Test Express API Auth Endpoints](https://blog.khophi.co/mocha-chai-chai-http-test-express-api-auth-endpoints/).
+- [Quick Introduction: Mocha, Chai and Chai-http Test Express API Auth Endpoints](https://blog.khophi.co/mocha-chai-chai-http-test-express-api-auth-endpoints/)
 
 ## Mocking
 
-- [Node.js Tests: Mocking HTTP Requests](https://scotch.io/tutorials/nodejs-tests-mocking-http-requests).
+- [Node.js Tests: Mocking HTTP Requests](https://scotch.io/tutorials/nodejs-tests-mocking-http-requests)
 
 - [Mocking External HTTP Requests in Node Tests with Nock](https://semaphoreci.com/community/tutorials/mocking-external-http-requests-in-node-tests-with-nock)

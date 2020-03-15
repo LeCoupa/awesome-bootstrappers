@@ -4,7 +4,7 @@
 
 ## Extensions
 
-- 📺 [10 Must Install Visual Studio Code Extensions](https://youtu.be/bJN1P07_lLo?list=WL).
+- 📺 [10 Must Install Visual Studio Code Extensions](https://youtu.be/bJN1P07_lLo?list=WL)
 
 ## Key Bindings
 

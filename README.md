@@ -6,64 +6,64 @@
 
 ### Backend
 
-- [Laravel](coding/backend/laravel.md).
+- [Laravel](coding/backend/laravel.md)
 
-- [Sails.js](coding/backend/sails.md).
+- [Sails.js](coding/backend/sails.md)
 
 ### Frontend
 
-- [CSS](coding/frontend/css.md).
+- [CSS](coding/frontend/css.md)
 
-- [HTML](coding/frontend/html.md).
+- [HTML](coding/frontend/html.md)
 
-- [Nuxt.js](coding/frontend/nuxt.md).
+- [Nuxt.js](coding/frontend/nuxt.md)
 
-- [Performance](coding/frontend/performance.md).
+- [Performance](coding/frontend/performance.md)
 
-- [PWA](coding/frontend/pwa.md).
+- [PWA](coding/frontend/pwa.md)
 
-- [Vue.js](coding/frontend/vue.md).
+- [Vue.js](coding/frontend/vue.md)
 
 ### Languages
 
-- [JavaScript](coding/languages/javascript.md).
+- [JavaScript](coding/languages/javascript.md)
 
-- [PHP](coding/languages/php.md).
+- [PHP](coding/languages/php.md)
 
 ### Mindset
 
-- [Networking](coding/mindset/networking.md).
+- [Networking](coding/mindset/networking.md)
 
-- [TDD](coding/mindset/tdd.md).
+- [TDD](coding/mindset/tdd.md)
 
 ### Tooling
 
-- [Git](coding/tooling/chrome.md).
+- [Chrome](coding/tooling/chrome.md)
 
-- [Git](coding/tooling/git.md).
+- [Git](coding/tooling/git.md)
 
-- [Visual Studio Code](coding/tooling/vscode.md).
+- [Visual Studio Code](coding/tooling/vscode.md)
 
 ## Marketing
 
 ### AARRR Framework
 
-- [Acquisition](marketing/framework/acquisition.md).
+- [Acquisition](marketing/framework/acquisition.md)
 
-- [Activation](marketing/framework/activation.md).
+- [Activation](marketing/framework/activation.md)
 
-- [Retention](marketing/framework/retention.md).
+- [Retention](marketing/framework/retention.md)
 
-- [Referral](marketing/framework/referral.md).
+- [Referral](marketing/framework/referral.md)
 
-- [Revenue](marketing/framework/revenue.md).
+- [Revenue](marketing/framework/revenue.md)
 
-- [Books](marketing/framework/books.md).
+- [Books](marketing/framework/books.md)
 
 ### Resources
 
-- [Mindset](marketing/resources/mindset.md).
+- [Mindset](marketing/resources/mindset.md)
 
-- [Books](marketing/resources/revenue.md).
+- [Books](marketing/resources/revenue.md)
 
-- [YouTube](marketing/resources/books.md).
+- [YouTube](marketing/resources/books.md)

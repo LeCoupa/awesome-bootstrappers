@@ -4,28 +4,28 @@
 
 ## Before you start
 
-- 📖 [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1).
+- 📖 [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 
 ## Important Notions
 
-- 📖 [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html).
+- 📖 [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 
-- 📖 [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
+- 📖 [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
-- 📺 [Git MERGE vs REBASE](https://www.youtube.com/watch?v=CRlGDDprdOQ).
+- 📺 [Git MERGE vs REBASE](https://www.youtube.com/watch?v=CRlGDDprdOQ)
 
-- 📖 [An introduction to Git merge and rebase: what they are, and how to use them](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/).
+- 📖 [An introduction to Git merge and rebase: what they are, and how to use them](https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
 
-- 📺 [The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw).
+- 📺 [The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw)
 
 ## Cool tricks
 
-- 📖 [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/npm-precommit-scripts/).
+- 📖 [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/npm-precommit-scripts/)
 
 ## Github Actions
 
-- 📺 [GitHub Actions - Now with built-in CI/CD! Live from GitHub HQ](https://www.youtube.com/watch?v=E1OunoCyuhY).
+- 📺 [GitHub Actions - Now with built-in CI/CD! Live from GitHub HQ](https://www.youtube.com/watch?v=E1OunoCyuhY)
 
-- 📖 [Automating your workflow with GitHub Actions](https://help.github.com/en/categories/automating-your-workflow-with-github-actions).
+- 📖 [Automating your workflow with GitHub Actions](https://help.github.com/en/categories/automating-your-workflow-with-github-actions)
 
-- 📖 [Hello, GitHub Actions!](https://lab.github.com/github/hello-github-actions!).
+- 📖 [Hello, GitHub Actions!](https://lab.github.com/github/hello-github-actions!)
