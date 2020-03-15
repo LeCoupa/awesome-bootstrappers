@@ -22,6 +22,8 @@
 
 - 📺 [Why You Should Learn Server Middleware with Nuxt.js!](https://www.youtube.com/watch?v=j-3RwvWZoaU)
 
+- 📖 [Using NuxtJS Server Middleware as a Proxy Pass](https://mccallister.io/using-nuxtjs-server-middleware-as-a-proxy-pass)
+
 ## Things to know
 
 - ❓ [Difference between Asyncdata vs Fetch](https://stackoverflow.com/questions/49251437/difference-between-asyncdata-vs-fetch)
