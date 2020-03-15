@@ -30,19 +30,17 @@
 
 - [PHP](coding/languages/php.md)
 
-### Mindset
+### Tools
 
-- [Networking](coding/mindset/networking.md)
+- [Chrome](coding/tools/chrome.md)
 
-- [TDD](coding/mindset/tdd.md)
+- [Git](coding/tools/git.md)
 
-### Tooling
+- [Networking](coding/tools/networking.md)
 
-- [Chrome](coding/tooling/chrome.md)
+- [TDD](coding/tools/tdd.md)
 
-- [Git](coding/tooling/git.md)
-
-- [Visual Studio Code](coding/tooling/vscode.md)
+- [Visual Studio Code](coding/tools/vscode.md)
 
 ## Marketing
 
