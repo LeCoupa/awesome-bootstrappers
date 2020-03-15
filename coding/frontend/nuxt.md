@@ -18,6 +18,10 @@
 
 - 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/)
 
+## Server Middlewares
+
+- 📺 [Why You Should Learn Server Middleware with Nuxt.js!](https://www.youtube.com/watch?v=j-3RwvWZoaU)
+
 ## Things to know
 
 - ❓ [Difference between Asyncdata vs Fetch](https://stackoverflow.com/questions/49251437/difference-between-asyncdata-vs-fetch)
