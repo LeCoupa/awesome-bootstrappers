@@ -12,6 +12,10 @@
 
 - 📖 [Use Laravel Valet for a Super Quick Dev Server](https://scotch.io/tutorials/use-laravel-valet-for-a-super-quick-dev-server)
 
+## Auth
+
+- 📺 [Laravel with JWT | From Scratch to Exception Handling](https://www.youtube.com/watch?v=l201RSQ7Ti4)
+
 ## Commands & Scheduling
 
 - 📖 [Tips for Using Laravel’s Scheduler](https://laravel-news.com/tips-for-using-laravels-scheduler)
