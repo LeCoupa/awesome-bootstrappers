@@ -22,7 +22,9 @@
 
 - 📺 [Array Iteration: 8 Methods - map, filter, reduce, some, every, find, findIndex, forEach](https://www.youtube.com/watch?v=Urwzk6ILvPQ)
 
-## Miscellaneous
+## Good to Know
+
+- 📺 [What is Polyfill (Web Development)](https://www.youtube.com/watch?v=saewjAZlwlg)
 
 - 📖 [An Introduction to Source Maps](https://blog.teamtreehouse.com/introduction-source-maps)
 
