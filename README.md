@@ -22,6 +22,8 @@
 
 - [PWA](coding/frontend/pwa.md)
 
+- [Tailwindcss](coding/frontend/tailwindcss.md)
+
 - [Vue.js](coding/frontend/vue.md)
 
 ### Languages
