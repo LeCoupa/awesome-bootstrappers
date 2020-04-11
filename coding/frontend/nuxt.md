@@ -18,6 +18,10 @@
 
 - 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/)
 
+## Production
+
+- 📖 [How to run Nuxt.js on DigitalOcean?](https://medium.com/codeartisan/how-to-run-nuxt-js-on-digitalocean-159fc558d2ab)
+
 ## Server Middlewares
 
 - 📺 [Why You Should Learn Server Middleware with Nuxt.js!](https://www.youtube.com/watch?v=j-3RwvWZoaU)
