@@ -9,3 +9,5 @@
 - 📖 [How To Install Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
 
 - 📖 [Deploying AdonisJS Apps to DigitalOcean](https://scotch.io/bar-talk/deploying-adonisjs-apps-to-digitalocean).
+
+- 📖 [How To Secure Nginx with Let's Encrypt on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
