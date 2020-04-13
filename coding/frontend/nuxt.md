@@ -14,13 +14,13 @@
 
 - 📖 [How to properly set up Nuxt with ESLint and Prettier in VSCode](https://medium.com/@gogl.alex/how-to-properly-set-up-eslint-with-prettier-for-vue-or-nuxt-in-vscode-e42532099a9c)
 
+## Deployment
+
+- 📖 [How to run Nuxt.js on DigitalOcean?](https://medium.com/codeartisan/how-to-run-nuxt-js-on-digitalocean-159fc558d2ab)
+
 ## Router
 
 - 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/)
-
-## Production
-
-- 📖 [How to run Nuxt.js on DigitalOcean?](https://medium.com/codeartisan/how-to-run-nuxt-js-on-digitalocean-159fc558d2ab)
 
 ## Server Middlewares
 
