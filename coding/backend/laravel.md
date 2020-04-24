@@ -12,6 +12,10 @@
 
 - 📖 [Use Laravel Valet for a Super Quick Dev Server](https://scotch.io/tutorials/use-laravel-valet-for-a-super-quick-dev-server)
 
+## API
+
+- 📖 [Laravel Sanctum](https://laravel.com/docs/master/sanctum)
+
 ## Auth
 
 - 📺 [Laravel with JWT | From Scratch to Exception Handling](https://www.youtube.com/watch?v=l201RSQ7Ti4)
