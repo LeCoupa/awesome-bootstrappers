@@ -20,7 +20,7 @@
 
 - 📖 [Tips for Using Laravel’s Scheduler](https://laravel-news.com/tips-for-using-laravels-scheduler)
 
-## controllers
+## Controllers
 
 - 📖 [Moving Controllers to sub-folders in a correct way](https://laraveldaily.com/moving-controllers-to-sub-folders-in-a-correct-way/)
 
@@ -111,6 +111,10 @@
 ## Traits
 
 - 📺 [Laravel Multi-Tenancy with Single Trait](https://www.youtube.com/watch?v=nCiNqboYFVQ)
+
+## Updates
+
+- 📖 [Laravel Shift](https://laravelshift.com/)
 
 ## Valet
 
