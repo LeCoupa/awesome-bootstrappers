@@ -16,6 +16,8 @@
 
 - 📖 [Laravel Sanctum](https://laravel.com/docs/master/sanctum)
 
+- 📖 [Using Laravel 5.5 Resources to create your own {JSON:API} formatted API](https://medium.com/zero-equals-false/using-laravel-5-5-resources-to-create-your-own-json-api-formatted-api-2c6af5e4d0e8)
+
 ## Auth
 
 - 📺 [Laravel with JWT | From Scratch to Exception Handling](https://www.youtube.com/watch?v=l201RSQ7Ti4)
