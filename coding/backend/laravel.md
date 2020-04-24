@@ -116,6 +116,8 @@
 
 - 📖 [20 Un-known Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/)
 
+- 📖 [60 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2019/04/laravel-tips-2019-04.pdf)
+
 ## Traits
 
 - 📺 [Laravel Multi-Tenancy with Single Trait](https://www.youtube.com/watch?v=nCiNqboYFVQ)
