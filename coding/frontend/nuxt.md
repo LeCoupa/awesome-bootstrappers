@@ -35,3 +35,5 @@
 - ❓ [Difference between Asyncdata vs Fetch](https://stackoverflow.com/questions/49251437/difference-between-asyncdata-vs-fetch)
 
 - 📺 [4 Nuxt JS beginner tutorial - Understanding express/nodejs in Nuxtjs](https://www.youtube.com/watch?v=INXFhl8rd6c)
+
+- 📖 [A Deep Dive Into The Nuxt-Link Component](https://deltener.com/blog/a-deep-dive-into-the-nuxt-link-component/)
