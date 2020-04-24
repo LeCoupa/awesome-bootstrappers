@@ -20,6 +20,10 @@
 
 - 📖 [Tips for Using Laravel’s Scheduler](https://laravel-news.com/tips-for-using-laravels-scheduler)
 
+## controllers
+
+- 📖 [Moving Controllers to sub-folders in a correct way](https://laraveldaily.com/moving-controllers-to-sub-folders-in-a-correct-way/)
+
 ## Eloquent
 
 - 📖 [Laravel Eloquent Amazing Tips and Tricks](https://medium.com/@advanceidea/laravel-eloquent-tips-894bc104cb98)
