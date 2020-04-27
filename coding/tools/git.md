@@ -22,6 +22,8 @@
 
 - 📖 [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/npm-precommit-scripts/)
 
+- 📖 [Hey git, please .keep those folders](https://medium.com/@kinduff/hey-git-please-keep-those-folders-eb0ed37621c8)
+
 ## Github Actions
 
 - 📺 [GitHub Actions - Now with built-in CI/CD! Live from GitHub HQ](https://www.youtube.com/watch?v=E1OunoCyuhY)
