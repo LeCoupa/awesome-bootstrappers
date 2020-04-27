@@ -28,6 +28,8 @@
 
 - 📖 [An Introduction to Source Maps](https://blog.teamtreehouse.com/introduction-source-maps)
 
+- 📖 [Arrays vs Sets](https://www.frontendmayhem.com/javascript-arrays-vs-sets/)
+
 ## Native Features
 
 - 📖 [Share like a native app with the Web Share API](https://web.dev/web-share/)
