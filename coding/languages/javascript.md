@@ -48,6 +48,10 @@
 
 - 📺 [Speed highlights (Chrome Dev Summit 2019)](https://www.youtube.com/watch?v=5_Ns2xfBMLw)
 
+## File Read/Write
+
+- 📖 [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
+
 ## Tips
 
 - 📺 [Top 5 Javascript Things You Should Know!](https://www.youtube.com/watch?v=v0QTqHXiVNw)
