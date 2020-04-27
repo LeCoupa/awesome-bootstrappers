@@ -12,9 +12,11 @@
 
 ## Ecosystem
 
-- 📖 [State of JS for 2017](https://2017.stateofjs.com/2017/introduction)
+- 📖 [State of JS for 2019](https://2019.stateofjs.com/)
 
 - 📖 [State of JS for 2018](https://2018.stateofjs.com/introduction/)
+
+- 📖 [State of JS for 2017](https://2017.stateofjs.com/2017/introduction)
 
 ## ES6 to ES10
 
