@@ -2,6 +2,10 @@
 
 > AdonisJs is a Node.js web framework with a breath of fresh air and drizzle of elegant syntax on top of it. We prefer developer joy and stability over anything else.
 
+## Database
+
+- 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
+
 ## Deployment
 
 - 📖 [How To Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)
