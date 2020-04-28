@@ -42,6 +42,8 @@
 
 - [Git](coding/tools/git.md)
 
+- [MySQL](coding/tools/mysql.md)
+
 - [Networking](coding/tools/networking.md)
 
 - [Puppeteer](coding/tools/puppeteer.md)
