@@ -19,3 +19,7 @@
 ## Mailing
 
 - 📖 [Setting up Mailgun with Adonis.js](https://madsobel.com/blog/setting-up-mailgun-with-adonis.js/)
+
+## Scheduling
+
+- 📖 [Batch Operations & Scheduling in AdonisJS](https://techformist.com/batch-operations-adonisjs/)
