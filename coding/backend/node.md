@@ -11,3 +11,7 @@
 - 📖 [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
 
 - 📖 [Streams For the Win: A Performance Comparison of Node.js Methods for Reading Large Datasets (Pt 2)](https://itnext.io/streams-for-the-win-a-performance-comparison-of-nodejs-methods-for-reading-large-datasets-pt-2-bcfa732fa40e)
+
+## Image Manipulation
+
+- 📖 [NodeJS Image Manipulation Libraries](https://medium.com/on-discord/nodejs-image-manipulation-libraries-43a3f955cc67)
