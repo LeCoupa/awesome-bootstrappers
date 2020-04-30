@@ -24,6 +24,8 @@
 
 - 📺 [Array Iteration: 8 Methods - map, filter, reduce, some, every, find, findIndex, forEach](https://www.youtube.com/watch?v=Urwzk6ILvPQ)
 
+- 📖 [Rename & Destructure Variables in ES6](https://wesbos.com/destructuring-renaming)
+
 ## Good Things to Know
 
 - 📺 [What is Polyfill (Web Development)](https://www.youtube.com/watch?v=saewjAZlwlg)
