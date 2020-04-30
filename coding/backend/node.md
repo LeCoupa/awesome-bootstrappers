@@ -15,3 +15,5 @@
 ## Image Manipulation
 
 - 📖 [NodeJS Image Manipulation Libraries](https://medium.com/on-discord/nodejs-image-manipulation-libraries-43a3f955cc67)
+
+- 📖 [Image Processing in NodeJS with Jimp](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
