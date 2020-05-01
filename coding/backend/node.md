@@ -17,3 +17,7 @@
 - 📖 [NodeJS Image Manipulation Libraries](https://medium.com/on-discord/nodejs-image-manipulation-libraries-43a3f955cc67)
 
 - 📖 [Image Processing in NodeJS with Jimp](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
+
+## Storage
+
+- 📖 [DigitalOcean Spaces: Pros/Cons and how to use it with JavaScript](https://medium.com/dailyjs/digital-ocean-spaces-pros-cons-and-how-to-use-it-with-javascript-1802559ce2bd)
