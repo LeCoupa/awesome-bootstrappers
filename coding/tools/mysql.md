@@ -5,3 +5,7 @@
 ## Performance
 
 - 📖 [High-speed inserts with MySQL](https://medium.com/@benmorel/high-speed-inserts-with-mysql-9d3dcd76f723)
+
+## Things to know
+
+- 📖 [Understanding Managed Databases](https://www.digitalocean.com/community/tutorials/understanding-managed-databases)
