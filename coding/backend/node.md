@@ -6,6 +6,10 @@
 
 - 📖 [4 ways to update to the latest Node.js version on a Mac](https://bytearcher.com/articles/ways-to-get-the-latest-node.js-version-on-a-mac/)
 
+## Deployment
+
+- 📖 [How To Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)
+
 ## File Input/Output
 
 - 📖 [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
