@@ -25,3 +25,7 @@
 ## Storage
 
 - 📖 [DigitalOcean Spaces: Pros/Cons and how to use it with JavaScript](https://medium.com/dailyjs/digital-ocean-spaces-pros-cons-and-how-to-use-it-with-javascript-1802559ce2bd)
+
+## Things to know
+
+- 📖 [How to Exit in Node.js](https://stackabuse.com/how-to-exit-in-node-js/)
