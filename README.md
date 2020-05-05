@@ -14,6 +14,8 @@
 
 - [Sails.js](coding/backend/sails.md)
 
+- [Ubuntu](coding/backend/ubuntu.md)
+
 ### Frontend
 
 - [CSS](coding/frontend/css.md)
