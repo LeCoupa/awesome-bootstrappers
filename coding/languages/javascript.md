@@ -34,6 +34,8 @@
 
 - 📖 [Arrays vs Sets](https://www.frontendmayhem.com/javascript-arrays-vs-sets/)
 
+- 📖 [JavaScript: Continue vs Break](https://codeburst.io/javascript-continue-vs-break-47b5c15cacc6)
+
 ## Native Features
 
 - 📖 [Share like a native app with the Web Share API](https://web.dev/web-share/)
