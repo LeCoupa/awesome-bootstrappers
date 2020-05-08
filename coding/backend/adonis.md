@@ -20,10 +20,6 @@
 
 - 📺 [Practice Ideas [ Build a Simple API - Part 8 ]](https://www.youtube.com/watch?v=ab5P3pH8j1Y)
 
-## Database
-
-- 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
-
 ## Deployment
 
 - 📖 [How To Install Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
@@ -40,11 +36,15 @@
 
 - 📺 [Set Up Service Providers](https://www.youtube.com/watch?v=w4apTeBa4O0)
 
-## Lucid
+## Lucid & Databases
 
 - 📺 [Apply Constraints to Lucid Relationships](https://www.youtube.com/watch?v=eOOdseihjSI)
 
 - 📺 [Use Lucid ORM to Query Related Data](https://www.youtube.com/watch?v=_zUF_mhubL0)
+
+- 📺 [Setup and Query Many to Many Relationships with Lucid](https://www.youtube.com/watch?v=NUfpIDMqx2k)
+
+- 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
 
 ## Mailing
 
