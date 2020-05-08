@@ -22,6 +22,10 @@
 
 - 📖 [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
 
+## Grid
+
+- 📺 [The magic of auto-fit and auto-fill (and the difference between them)](https://www.youtube.com/watch?v=qjJR3qYCd54)
+
 ## Layouts
 
 - 📖 [Building responsive layouts - Designing in the Browser](https://www.youtube.com/watch?v=K1POS8yPqa8)
