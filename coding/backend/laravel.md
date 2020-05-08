@@ -56,6 +56,8 @@
 
 - 📺 [Laravel E-Commerce - Server Deployment w/ Forge - Part 7](https://www.youtube.com/watch?v=BfCgwYgopUg)
 
+- 📺 [How we Deploy Laravel: Branches, Staging Servers, Forge and Envoyer](https://www.youtube.com/watch?v=8DVuVftFZcQ)
+
 ## Middlewares
 
 - 📺 [Why we need middleware](https://www.youtube.com/watch?v=2pPxHrPrvfA)
