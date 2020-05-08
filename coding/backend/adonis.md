@@ -6,6 +6,8 @@
 
 - 📺 [AdonisJS Tutorial - Introduction [ Build a Simple API - Part 1 ] (2018)](https://www.youtube.com/watch?v=5wzcRtrRVd4)
 
+- 📺 [AdonisJS Tutorial - Set up Adonis [ Build a Simple API - Part 2 ] (2018)](https://www.youtube.com/watch?v=ugtraz2A3FY)
+
 ## Database
 
 - 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
