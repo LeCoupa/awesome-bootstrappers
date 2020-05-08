@@ -48,6 +48,8 @@
 
 - 📺 [DEMO: New Server and Deployment with Laravel Forge](https://www.youtube.com/watch?v=dzD7HI5lI1M)
 
+- 📺 [Laravel Vapor vs Laravel Forge](https://www.youtube.com/watch?v=iQHKY1vu_Ck)
+
 ## Middlewares
 
 - 📺 [Why we need middleware](https://www.youtube.com/watch?v=2pPxHrPrvfA)
