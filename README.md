@@ -36,6 +36,8 @@
 
 - [JavaScript](coding/languages/javascript.md)
 
+- [TypeScript](coding/languages/typescript.md)
+
 - [PHP](coding/languages/php.md)
 
 ### Tools
