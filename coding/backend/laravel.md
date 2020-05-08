@@ -48,6 +48,8 @@
 
 - 📺 [How to Deploy Laravel Project with Envoyer](https://www.youtube.com/watch?v=hf0_pU-hRUE)
 
+- 📺 [How to Deploy Laravel Project with Envoyer](https://www.youtube.com/watch?v=hf0_pU-hRUE)
+
 ## Laravel Forge
 
 - 📺 [DEMO: New Server and Deployment with Laravel Forge](https://www.youtube.com/watch?v=dzD7HI5lI1M)
