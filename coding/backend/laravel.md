@@ -16,6 +16,8 @@
 
 - 📺 [Laravel 5.5 API From Scratch Using Resources](https://www.youtube.com/watch?v=4pc6cgisbKE)
 
+- 📺 [HUGE NEW FEATURE: API Resources (14/14) - Laravel 5.5 New Features](https://www.youtube.com/watch?v=Gyr5ZMNaPbc)
+
 - 📖 [Laravel Sanctum](https://laravel.com/docs/master/sanctum)
 
 - 📖 [Using Laravel 5.5 Resources to create your own {JSON:API} formatted API](https://medium.com/zero-equals-false/using-laravel-5-5-resources-to-create-your-own-json-api-formatted-api-2c6af5e4d0e8)
