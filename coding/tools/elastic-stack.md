@@ -10,4 +10,6 @@
 
 ## Elastic Search
 
+- 📺 [What is Elasticsearch?](https://www.youtube.com/watch?v=sKnkQSec1U0)
+
 - 📺 [Introduction to Elasticsearch](https://www.youtube.com/watch?v=yZJfsUOHJjg)
