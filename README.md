@@ -44,6 +44,8 @@
 
 - [Chrome](coding/tools/chrome.md)
 
+- [Elastic Stack](coding/tools/elastic-stack.md)
+
 - [Git](coding/tools/git.md)
 
 - [MySQL](coding/tools/mysql.md)
