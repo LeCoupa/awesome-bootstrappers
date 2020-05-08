@@ -44,6 +44,8 @@
 
 - 📺 [Setup and Query Many to Many Relationships with Lucid](https://www.youtube.com/watch?v=NUfpIDMqx2k)
 
+- 📺 [Customize Database Queries](https://www.youtube.com/watch?v=lzhHjE6Ry3c)
+
 - 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
 
 ## Mailing
