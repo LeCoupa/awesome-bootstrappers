@@ -20,13 +20,15 @@
 
 ## Router
 
-- 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/)
-
 - 📺 [A deep dive into the prefetch feature of Nuxt's nuxt-link component](https://www.youtube.com/watch?v=Or6RDRbXyVI)
+
+- 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/)
 
 ## Server Middlewares
 
 - 📺 [Why You Should Learn Server Middleware with Nuxt.js!](https://www.youtube.com/watch?v=j-3RwvWZoaU)
+
+- 📺 [Creating Redirects With Nuxt](https://www.youtube.com/watch?v=6akY6UQMjF8)
 
 - 📖 [Using NuxtJS Server Middleware as a Proxy Pass](https://mccallister.io/using-nuxtjs-server-middleware-as-a-proxy-pass)
 
