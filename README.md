@@ -50,6 +50,8 @@
 
 - [MySQL](coding/tools/mysql.md)
 
+- [Neo4j](coding/tools/neo4j.md)
+
 - [Networking](coding/tools/networking.md)
 
 - [Puppeteer](coding/tools/puppeteer.md)
