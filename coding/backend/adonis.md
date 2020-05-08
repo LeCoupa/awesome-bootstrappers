@@ -18,6 +18,8 @@
 
 - 📺 [Middleware [ Build a Simple API - Part 7 ]](https://www.youtube.com/watch?v=HxkCHZ3ek-4)
 
+- 📺 [Practice Ideas [ Build a Simple API - Part 8 ]](https://www.youtube.com/watch?v=ab5P3pH8j1Y)
+
 ## Database
 
 - 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
