@@ -5,3 +5,5 @@
 ## Introduction
 
 - 📺 [What is Graph Database? | When to use Graph Database?](https://www.youtube.com/watch?v=3C48rm9H4DI)
+
+- 📺 [When should I use a graph database?](https://www.youtube.com/watch?v=589zf0y4cqY)
