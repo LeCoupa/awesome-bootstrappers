@@ -40,6 +40,10 @@
 
 - 📺 [Set Up Service Providers](https://www.youtube.com/watch?v=w4apTeBa4O0)
 
+## Lucid
+
+- 📺 [Apply Constraints to Lucid Relationships](https://www.youtube.com/watch?v=eOOdseihjSI)
+
 ## Mailing
 
 - 📖 [Setting up Mailgun with Adonis.js](https://madsobel.com/blog/setting-up-mailgun-with-adonis.js/)
