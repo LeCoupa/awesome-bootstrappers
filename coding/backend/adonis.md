@@ -4,9 +4,11 @@
 
 ## API
 
-- 📺 [AdonisJS Tutorial - Introduction [ Build a Simple API - Part 1 ] (2018)](https://www.youtube.com/watch?v=5wzcRtrRVd4)
+- 📺 [Introduction [ Build a Simple API - Part 1 ]](https://www.youtube.com/watch?v=5wzcRtrRVd4)
 
-- 📺 [AdonisJS Tutorial - Set up Adonis [ Build a Simple API - Part 2 ] (2018)](https://www.youtube.com/watch?v=ugtraz2A3FY)
+- 📺 [Set up Adonis [ Build a Simple API - Part 2 ]](https://www.youtube.com/watch?v=ugtraz2A3FY)
+
+- 📺 [Create Files with CLI [ Build a Simple API - Part 3 ]](https://www.youtube.com/watch?v=dBqDwJIe4XE)
 
 ## Database
 
