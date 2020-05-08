@@ -2,9 +2,9 @@
 
 > Nuxt.js is a free and open source web application framework based on Vue.js, Node.js, Express.js, Webpack and Babel.js. The framework is advertised as "meta-framework for universal applications".
 
-## Before you start
+## Updates
 
-- 📺 [7 Problems you can avoid by using Nuxt.js for your next Vue app](https://www.youtube.com/watch?v=7ITypVi-qRY)
+- 📺 [Sébastien Chopin - What is Nuxt 2020?!](https://www.youtube.com/watch?v=9CkfX6LgNUU)
 
 ## API
 
@@ -41,5 +41,7 @@
 - 📺 [4 Nuxt JS beginner tutorial - Understanding express/nodejs in Nuxtjs](https://www.youtube.com/watch?v=INXFhl8rd6c)
 
 - 📺 [Common Problems With The Nuxt Client-Only Component](https://www.youtube.com/watch?v=sGzaqUj7T9Y)
+
+- 📺 [7 Problems you can avoid by using Nuxt.js for your next Vue app](https://www.youtube.com/watch?v=7ITypVi-qRY)
 
 - 📖 [A Deep Dive Into The Nuxt-Link Component](https://deltener.com/blog/a-deep-dive-into-the-nuxt-link-component/)
