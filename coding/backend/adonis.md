@@ -32,6 +32,10 @@
 
 - 📖 [How To Secure Nginx with Let's Encrypt on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04)
 
+## IoC Container
+
+- 📺 [Understanding the IoC Container](https://www.youtube.com/watch?v=yTiZrOluehU)
+
 ## Mailing
 
 - 📖 [Setting up Mailgun with Adonis.js](https://madsobel.com/blog/setting-up-mailgun-with-adonis.js/)
