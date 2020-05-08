@@ -12,6 +12,8 @@
 
 - 📺 [Database Migrations [ Build a Simple API - Part 4 ]](https://www.youtube.com/watch?v=mXootA5Onr0)
 
+- 📺 [Database Migrations CHALLENGE [ Build a Simple API - Part 5 ]](https://www.youtube.com/watch?v=LAeIFngnHWI)
+
 ## Database
 
 - 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
