@@ -44,6 +44,10 @@
 
 - 📖 [Essential Laravel Knowledge: How A Facade Works](https://calebporzio.com/essential-laravel-knowledge-how-a-facade-work/)
 
+## Forge
+
+- 📺 [DEMO: New Server and Deployment with Laravel Forge](https://www.youtube.com/watch?v=dzD7HI5lI1M)
+
 ## Middlewares
 
 - 📺 [Why we need middleware](https://www.youtube.com/watch?v=2pPxHrPrvfA)
