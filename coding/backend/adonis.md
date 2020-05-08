@@ -10,6 +10,8 @@
 
 - 📺 [Create Files with CLI [ Build a Simple API - Part 3 ]](https://www.youtube.com/watch?v=dBqDwJIe4XE)
 
+- 📺 [Database Migrations [ Build a Simple API - Part 4 ]](https://www.youtube.com/watch?v=mXootA5Onr0)
+
 ## Database
 
 - 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
