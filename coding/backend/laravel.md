@@ -78,6 +78,8 @@
 
 - 📺 ["Cruddy by Design" - Adam Wathan - Laracon US 2017](https://www.youtube.com/watch?v=MF0jFKvS4SI)
 
+- 📺 [Laravel 6 Advanced - e7 - Repository Pattern](https://www.youtube.com/watch?v=93ZhGkFIwbA)
+
 ## Performance
 
 - 📖 [Use Query Caching to make your App really fast](https://kovah.me/en/n7hs3x-laravel-5-use-query-caching-to-make-your-app-really-fast/)
