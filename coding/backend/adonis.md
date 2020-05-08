@@ -38,6 +38,8 @@
 
 - 📺 [Understanding Service Providers](https://www.youtube.com/watch?v=8ZIiraVxtvQ)
 
+- 📺 [Set Up Service Providers](https://www.youtube.com/watch?v=w4apTeBa4O0)
+
 ## Mailing
 
 - 📖 [Setting up Mailgun with Adonis.js](https://madsobel.com/blog/setting-up-mailgun-with-adonis.js/)
