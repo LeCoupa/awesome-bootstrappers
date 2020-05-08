@@ -92,6 +92,10 @@
 
 - 📖 [When to use Gate::after in Laravel](https://murze.be/when-to-use-gateafter-in-laravel)
 
+## Router
+
+- 📺 [Laravel from Scratch #9 - How to Use the Route Model Binding](https://www.youtube.com/watch?v=tTwlyN_HC0E)
+
 ## Service Container
 
 - 📺 [Laravel Service Container Explained](https://www.youtube.com/watch?v=PGVqkEZiUoc)
