@@ -44,6 +44,8 @@
 
 - 📺 [Apply Constraints to Lucid Relationships](https://www.youtube.com/watch?v=eOOdseihjSI)
 
+- 📺 [Use Lucid ORM to Query Related Data](https://www.youtube.com/watch?v=_zUF_mhubL0)
+
 ## Mailing
 
 - 📖 [Setting up Mailgun with Adonis.js](https://madsobel.com/blog/setting-up-mailgun-with-adonis.js/)
