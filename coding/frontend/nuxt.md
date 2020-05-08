@@ -40,4 +40,6 @@
 
 - 📺 [4 Nuxt JS beginner tutorial - Understanding express/nodejs in Nuxtjs](https://www.youtube.com/watch?v=INXFhl8rd6c)
 
+- 📺 [Common Problems With The Nuxt Client-Only Component](https://www.youtube.com/watch?v=sGzaqUj7T9Y)
+
 - 📖 [A Deep Dive Into The Nuxt-Link Component](https://deltener.com/blog/a-deep-dive-into-the-nuxt-link-component/)
