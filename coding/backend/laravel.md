@@ -54,6 +54,8 @@
 
 - 📺 [Laravel Vapor vs Laravel Forge](https://www.youtube.com/watch?v=iQHKY1vu_Ck)
 
+- 📺 [Laravel E-Commerce - Server Deployment w/ Forge - Part 7](https://www.youtube.com/watch?v=BfCgwYgopUg)
+
 ## Middlewares
 
 - 📺 [Why we need middleware](https://www.youtube.com/watch?v=2pPxHrPrvfA)
