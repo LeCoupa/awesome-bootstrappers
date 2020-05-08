@@ -6,6 +6,10 @@
 
 - 📺 [10 Must Install Visual Studio Code Extensions](https://youtu.be/bJN1P07_lLo?list=WL)
 
+## Tips & Tricks
+
+- 📺 [Blazingly Fast Console.log in VSCode](https://www.youtube.com/watch?v=QbHHhLVcXNM)
+
 ## Key Bindings
 
 ```json
