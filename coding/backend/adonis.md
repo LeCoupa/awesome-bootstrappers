@@ -16,6 +16,8 @@
 
 - 📺 [Query Builder and Lucid ORM [ Build a Simple API - Part 6 ]](https://www.youtube.com/watch?v=C3T_TWpZFaY)
 
+- 📺 [Middleware [ Build a Simple API - Part 7 ]](https://www.youtube.com/watch?v=HxkCHZ3ek-4)
+
 ## Database
 
 - 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
