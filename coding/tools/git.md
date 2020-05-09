@@ -24,6 +24,8 @@
 
 - 📖 [Hey git, please .keep those folders](https://medium.com/@kinduff/hey-git-please-keep-those-folders-eb0ed37621c8)
 
+- 📖 [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+
 ## Github Actions
 
 - 📺 [GitHub Actions - Now with built-in CI/CD! Live from GitHub HQ](https://www.youtube.com/watch?v=E1OunoCyuhY)
