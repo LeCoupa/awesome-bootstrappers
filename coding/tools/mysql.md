@@ -11,3 +11,7 @@
 - 📖 [Understanding Managed Databases](https://www.digitalocean.com/community/tutorials/understanding-managed-databases)
 
 - 📖 [PostgreSQL vs. MySQL](https://www.postgresqltutorial.com/postgresql-vs-mysql/)
+
+## Transaction
+
+- 📖 [MySQL Transaction](https://www.mysqltutorial.org/mysql-transaction.aspx/)
