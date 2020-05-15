@@ -9,3 +9,5 @@
 ## Things to know
 
 - 📖 [Understanding Managed Databases](https://www.digitalocean.com/community/tutorials/understanding-managed-databases)
+
+- 📖 [PostgreSQL vs. MySQL](https://www.postgresqltutorial.com/postgresql-vs-mysql/)
