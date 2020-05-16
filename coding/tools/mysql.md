@@ -12,6 +12,8 @@
 
 - 📖 [PostgreSQL vs. MySQL](https://www.postgresqltutorial.com/postgresql-vs-mysql/)
 
+- 📖 [How to get the database size in MySQL?](https://tableplus.com/blog/2018/08/mysql-how-to-get-the-size-of-mysql-database.html)
+
 ## Transaction
 
 - 📖 [MySQL Transaction](https://www.mysqltutorial.org/mysql-transaction.aspx/)
