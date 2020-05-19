@@ -56,6 +56,8 @@
 
 - [Puppeteer](coding/tools/puppeteer.md)
 
+- [Stripe](coding/tools/stripe.md)
+
 - [TDD](coding/tools/tdd.md)
 
 - [Visual Studio Code](coding/tools/vscode.md)
