@@ -10,6 +10,8 @@
 
 - 📖 [High-speed inserts with MySQL](https://medium.com/@benmorel/high-speed-inserts-with-mysql-9d3dcd76f723)
 
+- ❓ [Optimizing MySQL LIKE '%string%' queries in innoDB](https://stackoverflow.com/questions/10354248/optimizing-mysql-like-string-queries-in-innodb)
+
 ## Things to know
 
 - 📖 [Understanding Managed Databases](https://www.digitalocean.com/community/tutorials/understanding-managed-databases)
