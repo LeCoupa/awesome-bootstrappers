@@ -30,6 +30,10 @@
 
 - 📖 [Image Processing in NodeJS with Jimp](https://medium.com/@rossbulat/image-processing-in-nodejs-with-jimp-174f39336153)
 
+## NPM
+
+- 📖 [Understanding npm-link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
+
 ## Storage
 
 - 📖 [DigitalOcean Spaces: Pros/Cons and how to use it with JavaScript](https://medium.com/dailyjs/digital-ocean-spaces-pros-cons-and-how-to-use-it-with-javascript-1802559ce2bd)
