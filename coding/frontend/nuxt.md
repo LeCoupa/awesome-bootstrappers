@@ -45,3 +45,5 @@
 - 📺 [7 Problems you can avoid by using Nuxt.js for your next Vue app](https://www.youtube.com/watch?v=7ITypVi-qRY)
 
 - 📖 [A Deep Dive Into The Nuxt-Link Component](https://deltener.com/blog/a-deep-dive-into-the-nuxt-link-component/)
+
+- 📖 [Change the Nuxt.js server error page](https://blog.lichter.io/posts/nuxtjs-change-server-error-page/)
