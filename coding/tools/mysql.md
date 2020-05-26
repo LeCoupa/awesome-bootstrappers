@@ -2,6 +2,10 @@
 
 > MySQL is an open-source relational database management system. Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
 
+## Joins
+
+- 📺 [SQL Joins Tutorial for Beginners - Inner Join, Left Join, Right Join, Full Outer Join](https://www.youtube.com/watch?v=2HVMiPPuPIM)
+
 ## Query
 
 - ❓ [What's the difference between '!=' and '<>' in mysql?](https://stackoverflow.com/questions/7040305/whats-the-difference-between-and-in-mysql)
