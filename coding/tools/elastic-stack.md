@@ -24,6 +24,8 @@
 
 - 📖 [How To Install and Configure Elasticsearch on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04)
 
+- 📖 [How To Install Elasticsearch, Logstash, and Kibana (Elastic Stack) on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-18-04)
+
 - ❓ [How to decrease the number of RAM required by Elastic Search](https://stackoverflow.com/a/58656748/1649372)
 
 ### Mapping
