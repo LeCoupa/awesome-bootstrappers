@@ -8,16 +8,22 @@
 
 - 📺 [Common Elastic Stack & Elasticsearch Architectures](https://www.youtube.com/watch?v=Yc-G13lEbpc)
 
-## Deployment
-
-- 📖 [How To Install and Configure Elasticsearch on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04)
-
 ## Elastic Search
+
+### Introduction
 
 - 📺 [What is Elasticsearch?](https://www.youtube.com/watch?v=sKnkQSec1U0)
 
 - 📺 [Introduction to Elasticsearch](https://www.youtube.com/watch?v=yZJfsUOHJjg)
 
-## Mapping
+### Autocompletion
+
+- 📖 [Elasticsearch: Using Completion Suggester to build AutoComplete](https://medium.com/@taranjeet/elasticsearch-using-completion-suggester-to-build-autocomplete-e9c120cf6d87)
+
+### Deployment
+
+- 📖 [How To Install and Configure Elasticsearch on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04)
+
+### Mapping
 
 - ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
