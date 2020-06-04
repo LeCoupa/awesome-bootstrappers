@@ -17,3 +17,7 @@
 - 📺 [What is Elasticsearch?](https://www.youtube.com/watch?v=sKnkQSec1U0)
 
 - 📺 [Introduction to Elasticsearch](https://www.youtube.com/watch?v=yZJfsUOHJjg)
+
+## Mapping
+
+- ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
