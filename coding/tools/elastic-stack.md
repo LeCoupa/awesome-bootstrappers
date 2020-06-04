@@ -8,6 +8,10 @@
 
 - 📺 [Common Elastic Stack & Elasticsearch Architectures](https://www.youtube.com/watch?v=Yc-G13lEbpc)
 
+## Deployment
+
+- 📖 [How To Install and Configure Elasticsearch on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04)
+
 ## Elastic Search
 
 - 📺 [What is Elasticsearch?](https://www.youtube.com/watch?v=sKnkQSec1U0)
