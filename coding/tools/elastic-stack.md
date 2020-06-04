@@ -24,6 +24,8 @@
 
 - 📖 [How To Install and Configure Elasticsearch on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04)
 
+- ❓ [How to decrease the number of RAM required by Elastic Search](https://stackoverflow.com/a/58656748/1649372)
+
 ### Mapping
 
 - ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
