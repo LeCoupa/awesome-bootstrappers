@@ -31,3 +31,7 @@
 ### Mapping
 
 - ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
+
+### Node.js
+
+- 📖 [Getting started with Elasticsearch and Node.js - Part 1](https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/)
