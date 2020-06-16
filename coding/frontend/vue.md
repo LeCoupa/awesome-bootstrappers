@@ -112,6 +112,8 @@
 
 - 📖 [Learn Storybook](https://www.learnstorybook.com/intro-to-storybook/vue/en/get-started/)
 
+- 📖 [Writing tests for Vue.js Storybook](https://dev.to/kylewelsby/writing-tests-for-vue-js-storybook-1bh9)
+
 ## Testing
 
 - 📺 [Roman Kuba - Testing Vue components with Jest](https://www.youtube.com/watch?v=pqp0PsPBO_0)
