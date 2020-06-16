@@ -112,6 +112,8 @@
 
 - 📖 [Learn Storybook](https://www.learnstorybook.com/intro-to-storybook/vue/en/get-started/)
 
+- 📖 [An (almost) comprehensive guide on using Storybook with Nuxt.js](https://medium.com/js-dojo/a-guide-on-using-storybook-with-nuxt-js-1e0018ec51c9)
+
 - 📖 [Writing tests for Vue.js Storybook](https://dev.to/kylewelsby/writing-tests-for-vue-js-storybook-1bh9)
 
 ## Testing
