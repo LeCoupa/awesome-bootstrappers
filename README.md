@@ -60,6 +60,8 @@
 
 - [TDD](coding/tools/tdd.md)
 
+- [Video Editing](coding/tools/video_editing.md)
+
 - [Visual Studio Code](coding/tools/vscode.md)
 
 ## Marketing
