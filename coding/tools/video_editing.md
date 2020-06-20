@@ -1,3 +1,5 @@
 # Mastering Video Editing
 
-* [Clideo.com](https://clideo.com/crop-video): Crop Video Only & Free.
+* [Clideo](https://clideo.com/crop-video): Crop Video Only & Free.
+
+* [Loom](https://www.loom.com/): Free Screen & Video Recording.
