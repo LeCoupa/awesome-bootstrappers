@@ -24,6 +24,8 @@
 
 - 📖 [How to get the database size in MySQL?](https://tableplus.com/blog/2018/08/mysql-how-to-get-the-size-of-mysql-database.html)
 
+- 📖 [Uninstall or Completely remove mysql from ubuntu](https://linuxscriptshub.com/uninstall-completely-remove-mysql-ubuntu-16-04/)
+
 - ❓ [How to mysqldump a remote database from my local machine](https://stackoverflow.com/questions/2989724/how-to-mysqldump-remote-db-from-local-machine)
 
 ## Transaction
