@@ -30,6 +30,8 @@
 
 - 📖 [Uninstall or Completely remove mysql from ubuntu](https://linuxscriptshub.com/uninstall-completely-remove-mysql-ubuntu-16-04/)
 
+- 📖 [How To Allow Remote Access to MySQL](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
+
 - ❓ [How to mysqldump a remote database from my local machine](https://stackoverflow.com/questions/2989724/how-to-mysqldump-remote-db-from-local-machine)
 
 ## Transaction
