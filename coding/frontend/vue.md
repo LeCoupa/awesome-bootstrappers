@@ -64,6 +64,8 @@
 
 - 📖 [7 Ways to Define a Component Template in Vue.js](https://vuejsdevelopers.com/2017/03/24/vue-js-component-templates/)
 
+- 📖 [Leverage `provide/inject` to avoid prop drilling in Vue.js](https://www.jbakebwa.dev/posts/provide-inject.html)
+
 ## Directives
 
 - 📖 [15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity)
