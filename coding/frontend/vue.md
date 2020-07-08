@@ -16,6 +16,10 @@
 
 - 📖 [Google, Apple and Other Users of Vue.js](https://medium.com/notonlycss/google-apple-and-other-users-of-vue-js-e4505359e5d5)
 
+## API
+
+- 📖 [Leverage `provide/inject` to avoid prop drilling in Vue.js](https://markus.oberlehner.net/blog/lazy-resolving-observable-api-services-with-vue/)
+
 ## Authentication
 
 - 📖 [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex)
