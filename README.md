@@ -44,6 +44,8 @@
 
 - [Chrome](coding/tools/chrome.md)
 
+- [Chrome Extension](coding/tools/chrome_extension.md)
+
 - [Elastic Stack](coding/tools/elastic-stack.md)
 
 - [Git](coding/tools/git.md)
