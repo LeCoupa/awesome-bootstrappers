@@ -51,5 +51,3 @@
 ## TWA
 
 - 📖 [Nuxt module to transform your PWA into an Android app, using Trusted Web Activities (TWA)](https://laptrinhx.com/nuxt-module-to-transform-your-pwa-into-an-android-app-using-trusted-web-activities-twa-3278016247/)
-
-- 📖 [Trusted Web Activity](https://developers.google.com/web/android/trusted-web-activity)

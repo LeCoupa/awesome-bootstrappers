@@ -11,3 +11,7 @@
 ## Things to know
 
 - 📖 [What’s the Difference Between Chromium and Chrome?](https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/)
+
+## TWA
+
+- 📖 [Trusted Web Activity](https://developers.google.com/web/android/trusted-web-activity)
