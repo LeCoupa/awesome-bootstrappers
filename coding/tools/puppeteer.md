@@ -4,6 +4,8 @@
 
 ## Captchas
 
+- 📖 [Bypassing CAPTCHAs with Headless Chrome](https://medium.com/@jsoverson/bypassing-captchas-with-headless-chrome-93f294518337)
+
 - 🛠 [2Captcha](https://2captcha.com/)
 
 - 🛠 [Death by Captcha](https://www.deathbycaptcha.com/)
