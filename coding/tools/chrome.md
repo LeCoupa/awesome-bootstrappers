@@ -4,6 +4,8 @@
 
 ## News
 
+- 🧾 [Chromium Blog](https://blog.chromium.org/).
+
 - 📺 [Chrome 79 - What’s New in DevTools](https://www.youtube.com/watch?v=kobvF5cs6xY)
 
 ## Things to know
