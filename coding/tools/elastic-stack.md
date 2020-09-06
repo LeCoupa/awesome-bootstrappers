@@ -28,6 +28,8 @@
 
 - ❓ [How to decrease the number of RAM required by Elastic Search](https://stackoverflow.com/a/58656748/1649372)
 
+- ❓ [How do I enable remote access/request in Elasticsearch 2.0?](https://stackoverflow.com/questions/33696944/how-do-i-enable-remote-access-request-in-elasticsearch-2-0)
+
 ### Mapping
 
 - ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
