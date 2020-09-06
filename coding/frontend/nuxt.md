@@ -18,6 +18,10 @@
 
 - 📖 [How to run Nuxt.js on DigitalOcean?](https://medium.com/codeartisan/how-to-run-nuxt-js-on-digitalocean-159fc558d2ab)
 
+## I18N
+
+- 📖 [Advanced i18n in Nuxt using Interpolations](https://vuedose.tips/advanced-i18n-in-nuxt-using-interpolations/)
+
 ## Router
 
 - 📺 [A deep dive into the prefetch feature of Nuxt's nuxt-link component](https://www.youtube.com/watch?v=Or6RDRbXyVI)
