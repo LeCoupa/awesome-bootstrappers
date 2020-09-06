@@ -42,6 +42,10 @@
 
 - 📖 [My take on using Nuxt with an API](https://blog.lichter.io/posts/nuxt-with-an-api/)
 
+## Storybook
+
+- 📖 [nuxt storybook zero configuration with @nuxtjs/storybook module](https://dev.to/f3ltron/nuxt-storybook-zero-configuration-with-nuxtjs-storybook-module-8a2)
+
 ## Things to know
 
 - ❓ [Difference between Asyncdata vs Fetch](https://stackoverflow.com/questions/49251437/difference-between-asyncdata-vs-fetch)
