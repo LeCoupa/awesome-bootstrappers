@@ -74,6 +74,8 @@
 
 - 📖 [15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity)
 
+- 📖 [Rendering Elements only Once (v-once directive)](https://codingexplained.com/coding/front-end/vue-js/rendering-elements-v-directive)
+
 ## NativeScript
 
 - 📺 [Ignacio Fuentes - Mobile Apps with Vue and NativeScript](https://www.youtube.com/watch?v=claDp19_aqA)
