@@ -82,6 +82,8 @@
 
 - 📺 [Laravel Nova Mastery](https://laracasts.com/series/laravel-nova-mastery)
 
+- 📖 [Improvements on Laravel Nova](https://stitcher.io/blog/improvements-on-laravel-nova)
+
 ## Packages
 
 - 📺 [Useful Laravel Packages](https://codewithdre.com/useful-laravel-packages)
