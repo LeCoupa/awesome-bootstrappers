@@ -2,6 +2,16 @@
 
 > Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 
+## Captchas
+
+- 🛠 [2Captcha](https://2captcha.com/)
+
+- 🛠 [Death by Captcha](https://www.deathbycaptcha.com/)
+
+- 🛠 [Best Captcha Solver](https://bestcaptchasolver.com/)
+
+- 🛠 [AZ Captcha](https://azcaptcha.com/)
+
 ## Performance
 
 - 📖 [Disabling JavaScript Using Puppeteer](https://webkul.com/blog/disabling-javascript-using-puppeteer/)
