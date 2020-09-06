@@ -1,5 +1,9 @@
 # Mastering Sales
 
+## Blogs
+
+- 🧾 [Lemlist Blog](https://blog.lemlist.com/)
+
 ## General
 
 - 📖 [From 0 to 100 Customers as an Early-Stage B2B Startup](https://medium.com/swlh/from-0-to-100-customers-as-an-early-stage-b2b-startup-2f538e80c3da)
