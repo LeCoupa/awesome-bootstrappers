@@ -36,6 +36,8 @@
 
 - 📖 [Learn Elasticsearch Sorting in 5 minutes](https://medium.appbase.io/sort-elasticsearch-a-tutorial-on-sorting-with-elasticsearch-762b6c02557f)
 
+- 📖 [How to Sort an Analyzed Text Field in Elasticsearch](https://kb.objectrocket.com/elasticsearch/how-to-sort-an-analyzed-text-field-in-elasticsearch)
+
 ### Mapping
 
 - ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
