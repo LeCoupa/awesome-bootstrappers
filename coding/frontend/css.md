@@ -34,6 +34,10 @@
 
 - 📖 [Create print styles using CSS3 @media queries](https://benfrain.com/create-print-styles-using-css3-media-queries/)
 
+## Navigation
+
+- 📖 [Tutorial: Stripe.com's main navigation](https://lokeshdhakar.com/dev-201-stripe.coms-main-navigation/)
+
 ## News
 
 - 📖 [How to Use New CSS “:is()” for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223)
@@ -81,4 +85,3 @@
 - 📺 [Top 10 CSS Tricks You Didn't Know!](https://www.youtube.com/watch?v=CxC925yUxSI)
 
 - 📖 [Pure CSS for multiline truncation with ellipsis](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/)
-
