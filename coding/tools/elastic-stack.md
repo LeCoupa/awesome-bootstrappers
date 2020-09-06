@@ -37,3 +37,7 @@
 ### Node.js
 
 - 📖 [Getting started with Elasticsearch and Node.js - Part 1](https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/)
+
+## Scale
+
+- 📖 [Elasticsearch, how we paginated over 10 000 items](https://medium.com/@Benoit_Travers/elasticsearch-how-we-paginated-over-10-000-items-11198af5018c)
