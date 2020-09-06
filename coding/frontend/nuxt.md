@@ -24,6 +24,10 @@
 
 - 📖 [Redirect 404 Not Found in Nuxt.js](https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/)
 
+## SEO
+
+- 📖 [Optimize SEO and Social Media Sharing in a Nuxt blog](https://vuedose.tips/optimize-seo-and-social-media-sharing-in-a-nuxt-blog/)
+
 ## Server Middlewares
 
 - 📺 [Why You Should Learn Server Middleware with Nuxt.js!](https://www.youtube.com/watch?v=j-3RwvWZoaU)
