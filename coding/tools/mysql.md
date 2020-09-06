@@ -20,6 +20,8 @@
 
 - ❓ [Optimizing MySQL LIKE '%string%' queries in innoDB](https://stackoverflow.com/questions/10354248/optimizing-mysql-like-string-queries-in-innodb)
 
+- ❓ [Why does MYSQL higher LIMIT offset slow the query down?](https://stackoverflow.com/questions/4481388/why-does-mysql-higher-limit-offset-slow-the-query-down)
+
 ## Things to know
 
 - 📖 [Understanding Managed Databases](https://www.digitalocean.com/community/tutorials/understanding-managed-databases)
