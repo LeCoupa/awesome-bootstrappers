@@ -15,3 +15,5 @@
 ## TWA
 
 - 📖 [Trusted Web Activity](https://developers.google.com/web/android/trusted-web-activity)
+
+- 📖 [How to Convert PWA to an Android App?](https://medium.com/appmaker-xyz/how-to-convert-pwa-to-an-android-app-f06bac5d2e29)
