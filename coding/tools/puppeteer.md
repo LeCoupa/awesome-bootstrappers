@@ -4,6 +4,8 @@
 
 ## Anonymity & Privaxy
 
+- 📖 [Running Puppeteer with Tor](https://medium.com/@jsilvax/running-puppeteer-with-tor-45cc449e5672)
+
 - 📖 [Anonymous Web Scraping with Node.js, Tor, Puppeteer and cheerio](https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc)
 
 ## Captchas
