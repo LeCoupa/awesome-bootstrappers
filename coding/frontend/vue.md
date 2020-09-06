@@ -130,6 +130,10 @@
 
 - 📺 [Roman Kuba - Testing Vue components with Jest](https://www.youtube.com/watch?v=pqp0PsPBO_0)
 
+## Vite
+
+- 📖 [What the Heck is Vite?](https://www.wrappixel.com/what-the-heck-is-vite/)
+
 ## VuePress
 
 - 📺 [VuePress: Documentation made easy](https://youtu.be/fkrQJzP3Yl4)
