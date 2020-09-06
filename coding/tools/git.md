@@ -18,6 +18,10 @@
 
 - 📺 [The STASH Command](https://www.youtube.com/watch?v=DeU6opFU_zw)
 
+## Branches
+
+- 📖 [How to Delete a Git Branch Both Locally and Remotely](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
+
 ## Cool tricks
 
 - 📖 [Run npm scripts in a git pre-commit Hook](https://elijahmanor.com/npm-precommit-scripts/)
