@@ -34,6 +34,8 @@
 
 - 📖 [Understanding npm-link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
 
+- 📖 [NPM Tips and Tricks](https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6)
+
 ## Storage
 
 - 📖 [DigitalOcean Spaces: Pros/Cons and how to use it with JavaScript](https://medium.com/dailyjs/digital-ocean-spaces-pros-cons-and-how-to-use-it-with-javascript-1802559ce2bd)
