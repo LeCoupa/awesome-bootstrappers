@@ -47,3 +47,7 @@
 - 📖 [A Deep Dive Into The Nuxt-Link Component](https://deltener.com/blog/a-deep-dive-into-the-nuxt-link-component/)
 
 - 📖 [Change the Nuxt.js server error page](https://blog.lichter.io/posts/nuxtjs-change-server-error-page/)
+
+## TWA
+
+- 📖 [Nuxt module to transform your PWA into an Android app, using Trusted Web Activities (TWA)](https://laptrinhx.com/nuxt-module-to-transform-your-pwa-into-an-android-app-using-trusted-web-activities-twa-3278016247/)
