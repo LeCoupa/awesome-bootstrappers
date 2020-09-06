@@ -2,6 +2,10 @@
 
 > Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 
+## Anonymity & Privaxy
+
+- 📖 [Anonymous Web Scraping with Node.js, Tor, Puppeteer and cheerio](https://levelup.gitconnected.com/anonymous-web-scrapping-with-node-js-tor-apify-and-cheerio-3b36ec6a45dc)
+
 ## Captchas
 
 - 📖 [Bypassing CAPTCHAs with Headless Chrome](https://medium.com/@jsoverson/bypassing-captchas-with-headless-chrome-93f294518337)
