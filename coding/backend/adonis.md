@@ -53,3 +53,7 @@
 ## Scheduling
 
 - 📖 [Batch Operations & Scheduling in AdonisJS](https://techformist.com/batch-operations-adonisjs/)
+
+## Things to know
+
+- 📖 [CORS: Cross-Origin Resource Sharing Explained](https://www.ionos.com/digitalguide/websites/web-development/cross-origin-resource-sharing/)
