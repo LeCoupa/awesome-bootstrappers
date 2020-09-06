@@ -6,6 +6,10 @@
 
 - 📺 [JavaScript in 2019](https://youtu.be/cS6Txwk8Q-Q)
 
+## Arrays
+
+- 📖 [Eliminating duplicate objects: three approaches](https://2ality.com/2020/07/eliminating-duplicate-objects.html)
+
 ## Drag and drop
 
 - 📖 [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/)
