@@ -44,6 +44,8 @@
 
 - 📖 [Use MySQL Load Files Data in AdonisJS](https://techformist.com/adonisjs-batch-load-files-mysql/)
 
+- 📖 [Querying databases with Knex.js](https://blog.logrocket.com/querying-databases-with-knex-js/)
+
 ## Mailing
 
 - 📖 [Setting up Mailgun with Adonis.js](https://madsobel.com/blog/setting-up-mailgun-with-adonis.js/)
