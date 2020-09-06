@@ -30,6 +30,10 @@
 
 - ❓ [How do I enable remote access/request in Elasticsearch 2.0?](https://stackoverflow.com/questions/33696944/how-do-i-enable-remote-access-request-in-elasticsearch-2-0)
 
+### Queries
+
+- 📖 [Elasticsearch Queries: A Thorough Guide](https://logz.io/blog/elasticsearch-queries/)
+
 ### Mapping
 
 - ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
@@ -38,6 +42,6 @@
 
 - 📖 [Getting started with Elasticsearch and Node.js - Part 1](https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/)
 
-## Scale
+### Scale
 
 - 📖 [Elasticsearch, how we paginated over 10 000 items](https://medium.com/@Benoit_Travers/elasticsearch-how-we-paginated-over-10-000-items-11198af5018c)
