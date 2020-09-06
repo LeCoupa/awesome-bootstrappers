@@ -38,6 +38,8 @@
 
 - 📖 [10 Good Practices for Building and Maintaining Large Vue.js Projects](https://www.telerik.com/blogs/10-good-practices-building-maintaining-large-vuejs-projects)
 
+- 📖 [4 Best Practices for Large Scale Vue.js Projects](https://blog.bitsrc.io/4-best-practices-for-large-scale-vue-js-projects-9a533450bdb2)
+
 - ⁉️ [Why is it considered poor practice to use Axios or HTTP calls in components?](https://stackoverflow.com/questions/45839198/why-is-it-considered-poor-practice-to-use-axios-or-http-calls-in-components)
 
 - 📺 [Are These Vue.js Best Practices? Video Critique!](https://www.youtube.com/watch?v=38XnZ3EJqYQ)
