@@ -34,6 +34,8 @@
 
 - 📖 [Elasticsearch Queries: A Thorough Guide](https://logz.io/blog/elasticsearch-queries/)
 
+- 📖 [Learn Elasticsearch Sorting in 5 minutes](https://medium.appbase.io/sort-elasticsearch-a-tutorial-on-sorting-with-elasticsearch-762b6c02557f)
+
 ### Mapping
 
 - ❓ [Create or update mapping in elasticsearch](https://stackoverflow.com/a/25471930/1649372)
