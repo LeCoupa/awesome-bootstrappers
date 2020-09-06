@@ -94,6 +94,8 @@
 
 - 📖 [Avoiding Memory Leaks](https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html)
 
+- 📖 [How we got a 100% Lighthouse performance score for our Vue.js app](https://blog.checklyhq.com/how-we-got-a-100-lighthouse-performance-score-for-our-vue-js-app/)
+
 ## Productivity
 
 - 📖 [10 Tips to Increase your Productivity when Coding in Vue.js](https://www.telerik.com/blogs/10-tips-to-increase-your-productivity-when-coding-in-vuejs)
