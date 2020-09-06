@@ -66,6 +66,8 @@
 
 - [Visual Studio Code](coding/tools/vscode.md)
 
+- [Webpack](coding/tools/webpack.md)
+
 ## Marketing
 
 ### AARRR Framework
@@ -89,3 +91,9 @@
 - [Books](marketing/resources/revenue.md)
 
 - [YouTube](marketing/resources/books.md)
+
+### Skills
+
+- [Sales](marketing/skills/sales.md)
+
+- [Social Media](marketing/skills/social_media.md)
