@@ -58,6 +58,8 @@
 
 - [Puppeteer](coding/tools/puppeteer.md)
 
+- [Redis](coding/tools/redis.md)
+
 - [Stripe](coding/tools/stripe.md)
 
 - [TDD](coding/tools/tdd.md)
