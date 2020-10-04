@@ -6,6 +6,10 @@
 
 - 📖 [How To Install the Latest MySQL on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-the-latest-mysql-on-ubuntu-18-04)
 
+## Tools
+
+- 🛠 [SimpleBackups](https://simplebackups.io/).
+
 ## Joins
 
 - 📺 [SQL Joins Tutorial for Beginners - Inner Join, Left Join, Right Join, Full Outer Join](https://www.youtube.com/watch?v=2HVMiPPuPIM)
