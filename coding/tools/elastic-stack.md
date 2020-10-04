@@ -16,6 +16,8 @@
 
 - 📺 [Introduction to Elasticsearch](https://www.youtube.com/watch?v=yZJfsUOHJjg)
 
+- 📖 [The Beginners’ Guide to Elasticsearch — Part 1](https://medium.com/towards-artificial-intelligence/the-beginners-guide-to-elasticsearch-part-1-2e50d3761e3c)
+
 ### Autocompletion
 
 - 📖 [Elasticsearch: Using Completion Suggester to build AutoComplete](https://medium.com/@taranjeet/elasticsearch-using-completion-suggester-to-build-autocomplete-e9c120cf6d87)
