@@ -8,7 +8,9 @@
 
 ## Tools
 
-- 🛠 [SimpleBackups](https://simplebackups.io/).
+- 🛠 [TablePlus](https://tableplus.com/)
+
+- 🛠 [SimpleBackups](https://simplebackups.io/)
 
 ## Joins
 
