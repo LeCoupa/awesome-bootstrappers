@@ -6,6 +6,8 @@
 
 - 📖 [How To Install the Latest MySQL on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-the-latest-mysql-on-ubuntu-18-04)
 
+- 📖 [How To Move a MySQL Data Directory to a New Location on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-move-a-mysql-data-directory-to-a-new-location-on-ubuntu-16-04)
+
 ## Tools
 
 - 🛠 [TablePlus](https://tableplus.com/)
