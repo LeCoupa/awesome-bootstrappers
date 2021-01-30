@@ -56,6 +56,8 @@
 
 - [Networking](coding/tools/networking.md)
 
+- [Nginx](coding/tools/nginx.md)
+
 - [Puppeteer](coding/tools/puppeteer.md)
 
 - [Redis](coding/tools/redis.md)
