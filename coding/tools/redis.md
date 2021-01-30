@@ -5,3 +5,5 @@
 ## Installation
 
 - 📖 [How To Install and Secure Redis on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04)
+
+- 📖 [Upgrade Redis to the Latest Version](https://medium.com/@toniflorithomar/upgrade-redis-82f28b06a8eb)
