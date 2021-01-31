@@ -72,6 +72,8 @@
 
 - [Webpack](coding/tools/webpack.md)
 
+- [ZSH](coding/tools/zsh.md)
+
 ## Marketing
 
 ### AARRR Framework
