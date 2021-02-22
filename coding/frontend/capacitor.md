@@ -5,3 +5,5 @@
 ## Deployment
 
 - 📖 [Deploying Capacitor Applications to iOS (Development & Distribution)](https://www.joshmorony.com/deploying-capacitor-applications-to-ios-development-distribution/)
+
+- 📖 [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
