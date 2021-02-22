@@ -18,6 +18,8 @@
 
 ### Frontend
 
+- [Capacitor](coding/frontend/capacitor.md)
+
 - [CSS](coding/frontend/css.md)
 
 - [HTML](coding/frontend/html.md)
