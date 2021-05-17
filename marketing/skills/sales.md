@@ -12,6 +12,8 @@
 
 - 📖 [LinkedIn automation rate limits and best practices [2020 edition]](https://phantombuster.com/blog/guides/linkedin-automation-rate-limits-2020-edition-5pFlkXZFjtku79DltwBF0M)
 
+- 📖 [How to retrieve followers of a LinkedIn page](https://blog.waalaxy.com/en/retrieve-followers-linkedin/)
+
 ## Tools
 
 - 📖 [40 of the Best Sales Prospecting Tools for 2021](https://www.leadfeeder.com/blog/best-sales-prospecting-tools/#gref)
