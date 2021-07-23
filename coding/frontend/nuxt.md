@@ -18,6 +18,10 @@
 
 - 📖 [How to run Nuxt.js on DigitalOcean?](https://medium.com/codeartisan/how-to-run-nuxt-js-on-digitalocean-159fc558d2ab)
 
+## Docker
+
+- 📖 [Deploying a Nuxt.js App with Docker](https://jonathanmh.com/deploying-a-nuxt-js-app-with-docker/)
+
 ## I18N
 
 - 📖 [Advanced i18n in Nuxt using Interpolations](https://vuedose.tips/advanced-i18n-in-nuxt-using-interpolations/)
