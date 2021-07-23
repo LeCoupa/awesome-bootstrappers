@@ -28,6 +28,8 @@
 
 - 📖 [How To Install Elasticsearch, Logstash, and Kibana (Elastic Stack) on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-18-04)
 
+- 📖 [How to run an Elasticsearch 7 single node cluster for local development using Docker Compose?](https://medium.com/@TimvanBaarsen/how-to-run-an-elasticsearch-7-x-single-node-cluster-for-local-development-using-docker-compose-2b7ab73d8b82)
+
 - ❓ [How to decrease the number of RAM required by Elastic Search](https://stackoverflow.com/a/58656748/1649372)
 
 - ❓ [How do I enable remote access/request in Elasticsearch 2.0?](https://stackoverflow.com/questions/33696944/how-do-i-enable-remote-access-request-in-elasticsearch-2-0)
