@@ -48,6 +48,8 @@
 
 - [Chrome Extension](coding/tools/chrome_extension.md)
 
+- [Docker](coding/tools/docker.md)
+
 - [Elastic Stack](coding/tools/elastic-stack.md)
 
 - [Git](coding/tools/git.md)
