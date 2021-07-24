@@ -4,4 +4,4 @@
 
 # MySQL
 
-- 📖 [Create multiple databases with Docker Compose](https://stackoverflow.com/questions/39204142/docker-compose-with-multiple-databases).
+- 📖 [Create multiple databases with Docker Compose](https://stackoverflow.com/questions/39204142/docker-compose-with-multiple-databases)
