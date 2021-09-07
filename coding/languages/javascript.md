@@ -32,7 +32,9 @@
 
 - 📖 [Rename & Destructure Variables in ES6](https://wesbos.com/destructuring-renaming)
 
-## Good Things to Know
+## Things to Know
+
+- 📺 [What is THIS in JavaScript? in 100 seconds](https://www.youtube.com/watch?v=YOlr79NaAtQ)
 
 - 📺 [What is Polyfill (Web Development)](https://www.youtube.com/watch?v=saewjAZlwlg)
 
