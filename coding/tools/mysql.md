@@ -32,6 +32,8 @@
 
 ## Things to know
 
+- 📺 [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+
 - 📖 [Understanding Managed Databases](https://www.digitalocean.com/community/tutorials/understanding-managed-databases)
 
 - 📖 [PostgreSQL vs. MySQL](https://www.postgresqltutorial.com/postgresql-vs-mysql/)
