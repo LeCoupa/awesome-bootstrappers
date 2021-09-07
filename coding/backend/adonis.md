@@ -2,6 +2,10 @@
 
 > AdonisJs is a Node.js web framework with a breath of fresh air and drizzle of elegant syntax on top of it. We prefer developer joy and stability over anything else.
 
+## Introduction
+
+- 📺 [AdonisJS 5 - Introduction | The Node.js Framework focused on developer ergonomics and speed](https://www.youtube.com/watch?v=TysfaNcFX_Y)
+
 ## API
 
 - 📺 [Introduction [ Build a Simple API - Part 1 ]](https://www.youtube.com/watch?v=5wzcRtrRVd4)
