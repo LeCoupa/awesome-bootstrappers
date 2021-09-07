@@ -14,6 +14,10 @@
 
 - 🛠 [SimpleBackups](https://simplebackups.io/)
 
+## Types
+
+- 📺 [MySQL ENUM](https://www.youtube.com/watch?v=dp6eD1yoA-k)
+
 ## Joins
 
 - 📺 [SQL Joins Tutorial for Beginners - Inner Join, Left Join, Right Join, Full Outer Join](https://www.youtube.com/watch?v=2HVMiPPuPIM)
