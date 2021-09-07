@@ -6,6 +6,8 @@
 
 - 📺 [Why TypeScript is Actually Good](https://www.youtube.com/watch?v=Ptrhz2zW--o)
 
+- 📺 [All You Need To Know About TypeScript](https://www.youtube.com/watch?v=eCZhz0JCVx0)
+
 ## New Versions
 
 - 📺 [TypeScript 4.0](https://www.youtube.com/watch?v=bAB_nNf8-a0)
