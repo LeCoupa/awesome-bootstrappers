@@ -6,9 +6,13 @@
 
 - 📖 [Tailwind CSS For Absolute Beginners](https://medium.com/codingthesmartway-com-blog/tailwind-css-for-absolute-beginners-3e1b5e8fe1a1)
 
-## Good things to know
+## Things to know
 
 - 📺 [Dark Mode Theme Switcher - Tailwind CSS & Gridsome](https://www.youtube.com/watch?v=o4Prej0wIZA)
+
+## Grid
+
+- 📺 [New Grid Utilities for Auto-Rows, Auto-Columns, and Full-Span](https://www.youtube.com/watch?v=DVZvkFEzDOE)
 
 ## Projects
 

@@ -6,7 +6,7 @@
 
 - 📖 [Initial Server Setup with Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
 
-## Good Things to Know
+## Things to Know
 
 - 📖 [How to use pbcopy on Ubuntu](https://garywoodfine.com/use-pbcopy-on-ubuntu/)
 
