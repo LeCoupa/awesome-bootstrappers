@@ -6,6 +6,10 @@
 
 - 📺 [Why TypeScript is Actually Good](https://www.youtube.com/watch?v=Ptrhz2zW--o)
 
+## New Versions
+
+- 📺 [TypeScript 4.0](https://www.youtube.com/watch?v=bAB_nNf8-a0)
+
 ## Tips
 
 - 📺 [TypeScript 4.4 changes to error handling // Fix Error Unknown]https://www.youtube.com/watch?v=JyBvFey7pVc)
