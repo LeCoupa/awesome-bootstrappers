@@ -28,6 +28,8 @@
 
 - 📺 [Array Iteration: 8 Methods - map, filter, reduce, some, every, find, findIndex, forEach](https://www.youtube.com/watch?v=Urwzk6ILvPQ)
 
+- 📺 [JavaScript 2021 New Numeric Separators](https://www.youtube.com/watch?v=8L36qRYruec)
+
 - 📖 [Rename & Destructure Variables in ES6](https://wesbos.com/destructuring-renaming)
 
 ## Good Things to Know
