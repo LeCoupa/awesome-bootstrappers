@@ -6,9 +6,11 @@
 
 - 📺 [How Node.js Works](https://www.youtube.com/watch?v=jOupHNvDIq8)
 
-## Common
+## Things to know
 
 - 📖 [4 ways to update to the latest Node.js version on a Mac](https://bytearcher.com/articles/ways-to-get-the-latest-node.js-version-on-a-mac/)
+
+- 📺 [API vs. SDK: What's the difference?](https://www.youtube.com/watch?v=kG-fLp9BTRo)
 
 ## Deployment
 
