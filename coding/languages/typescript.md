@@ -5,3 +5,7 @@
 ## Introduction
 
 - 📺 [Why TypeScript is Actually Good](https://www.youtube.com/watch?v=Ptrhz2zW--o)
+
+## Tips
+
+- 📺 [TypeScript 4.4 changes to error handling // Fix Error Unknown]https://www.youtube.com/watch?v=JyBvFey7pVc)
