@@ -6,7 +6,11 @@
 
 - 📖 [HowTo: My Terminal & Shell setup - Hyper.js + ZSH + starship ☄️🔥](https://tjay.dev/howto-my-terminal-shell-setup-hyper-js-zsh-starship/)
 
-## themes
+## Full Courses
+
+- 📺 [Command Line Power User](https://commandlinepoweruser.com/)
+
+## Themes
 
 - 🎨 [Omni Dark theme for Hyper](https://github.com/getomni/hyper)
 
