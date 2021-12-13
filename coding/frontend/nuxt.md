@@ -69,3 +69,7 @@
 ## TWA
 
 - 📖 [Nuxt module to transform your PWA into an Android app, using Trusted Web Activities (TWA)](https://laptrinhx.com/nuxt-module-to-transform-your-pwa-into-an-android-app-using-trusted-web-activities-twa-3278016247/)
+
+## Performance
+
+- 📖 [How to Load Third-Party Scripts in Nuxt.js](https://vueschool.io/articles/vuejs-tutorials/how-to-load-third-party-scripts-in-nuxt-js/)
