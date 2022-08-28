@@ -2,6 +2,12 @@
 
 > 👩‍🚀👨‍🚀 Must-read articles, videos, books and tools for bootstrappers.
 
+## 🎥 You can click on the banner below to discover my YouTube about coding, growth and productivity
+
+<a href="https://www.youtube.com/channel/UC3Xno2xrHKEPqzd8ZZK02gg/videos?sub_confirmation=1" target="_blank">
+   <img src="https://github.com/LeCoupa/LeCoupa/raw/master/images/youtube_cover.png?raw=true"/>
+</a>
+
 ## Coding
 
 ### Backend
