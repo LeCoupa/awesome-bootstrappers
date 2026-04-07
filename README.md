@@ -107,3 +107,7 @@
 - [Sales](marketing/skills/sales.md)
 
 - [Social Media](marketing/skills/social_media.md)
+
+## Marketplaces
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
