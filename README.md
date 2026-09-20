@@ -43,6 +43,7 @@
 - [PHP](coding/languages/php.md)
 
 ### Tools
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser invoice/quote/rate tools for freelancers + $1 PayPal.me unlock for bilingual WhatsApp close pack (EN/AR).
 
 - [Chrome](coding/tools/chrome.md)
 
