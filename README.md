@@ -98,6 +98,8 @@
 
 - [Mindset](marketing/resources/mindset.md)
 
+- [Analytics](marketing/resources/analytics.md)
+
 - [Books](marketing/resources/revenue.md)
 
 - [YouTube](marketing/resources/books.md)
